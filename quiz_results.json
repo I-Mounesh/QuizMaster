@@ -1,0 +1,2149 @@
+{
+    "Prashant": {
+        "General Knowledge": {
+            "hard": {
+                "score": 4,
+                "quiz": [
+                    {
+                        "question": "Which of the following is an existing family in \"The Sims\"?",
+                        "options": [
+                            "The Goth Family",
+                            "The Simoleon Family",
+                            "The Family",
+                            "The Proud Family"
+                        ],
+                        "answer": "The Goth Family",
+                        "explanation": "The correct answer is 'The Goth Family'. The reason The Family is incorrect is because..."
+                    },
+                    {
+                        "question": "Which of the following is not another name for the eggplant?",
+                        "options": [
+                            "Guinea Squash",
+                            "Brinjal",
+                            "Melongene",
+                            "Potimarron"
+                        ],
+                        "answer": "Potimarron",
+                        "explanation": "The correct answer is 'Potimarron'. The reason Brinjal is incorrect is because..."
+                    },
+                    {
+                        "question": "Originally another word for poppy, coquelicot is a shade of what?",
+                        "options": [
+                            "Blue",
+                            "Red",
+                            "Pink",
+                            "Green"
+                        ],
+                        "answer": "Red",
+                        "explanation": "The correct answer is 'Red'. The reason Green is incorrect is because..."
+                    },
+                    {
+                        "question": "What year was the RoboSapien toy robot released?",
+                        "options": [
+                            "2006",
+                            "2004",
+                            "2000",
+                            "2001"
+                        ],
+                        "answer": "2004",
+                        "explanation": "The correct answer is '2004'. The reason 2000 is incorrect is because..."
+                    },
+                    {
+                        "question": "What was the third country to have a McDonald's restaurant?",
+                        "options": [
+                            "France",
+                            "Australia",
+                            "Japan",
+                            "Costa Rica"
+                        ],
+                        "answer": "Costa Rica",
+                        "explanation": "The correct answer is 'Costa Rica'. The reason Japan is incorrect is because..."
+                    }
+                ]
+            }
+        },
+        "Movies": {
+            "hard": {
+                "score": 2,
+                "quiz": [
+                    {
+                        "question": "Before \"Jurassic Park III\" was finalized and the Spinosaurus was chosen, which dinosaur was going to be the star?",
+                        "options": [
+                            "Tyrannosaurus Rex",
+                            "Suchomimus",
+                            "Baryonyx",
+                            "Velociraptor"
+                        ],
+                        "answer": "Baryonyx",
+                        "explanation": "The correct answer is 'Baryonyx'. The reason Tyrannosaurus Rex is incorrect is because..."
+                    },
+                    {
+                        "question": "Which 1994 film did Roger Ebert famously despise, saying \"I hated hated hated hated hated this movie\".",
+                        "options": [
+                            "3 Ninjas Kick Back",
+                            "North",
+                            "Richie Rich",
+                            "The Santa Clause"
+                        ],
+                        "answer": "North",
+                        "explanation": "The correct answer is 'North'. The reason 3 Ninjas Kick Back is incorrect is because..."
+                    },
+                    {
+                        "question": "Which sci-fi cult films plot concerns aliens attempting to prevent humans from creating a doomsday weapon?",
+                        "options": [
+                            "Plan 9 from Outer Space",
+                            "The Man from Planet X",
+                            "The Day The Earth Stood Still",
+                            "It Came from Outer Space"
+                        ],
+                        "answer": "Plan 9 from Outer Space",
+                        "explanation": "The correct answer is 'Plan 9 from Outer Space'. The reason The Man from Planet X is incorrect is because..."
+                    },
+                    {
+                        "question": "What did Alfred Hitchcock use as blood in the film \"Psycho\"? ",
+                        "options": [
+                            "Ketchup",
+                            "Red food coloring",
+                            "Chocolate syrup",
+                            "Maple syrup"
+                        ],
+                        "answer": "Chocolate syrup",
+                        "explanation": "The correct answer is 'Chocolate syrup'. The reason Ketchup is incorrect is because..."
+                    },
+                    {
+                        "question": "According to \"Star Wars\" lore, which planet does Obi-Wan Kenobi come from?",
+                        "options": [
+                            "Alderaan",
+                            "Stewjon",
+                            "Tatooine",
+                            "Naboo"
+                        ],
+                        "answer": "Stewjon",
+                        "explanation": "The correct answer is 'Stewjon'. The reason Alderaan is incorrect is because..."
+                    }
+                ]
+            }
+        }
+    },
+    "Rohit": {
+        "Science: Mathematics": {
+            "medium": {
+                "score": 4,
+                "quiz": [
+                    {
+                        "question": "What is the derivative of sin(x)",
+                        "options": [
+                            "csc(x)",
+                            "-cos(x)",
+                            "cos(x)",
+                            "-sin(x)"
+                        ],
+                        "answer": "cos(x)",
+                        "explanation": "The correct answer is 'cos(x)'. One of the incorrect answers is 'csc(x)', which is not accurate because it doesn't align with verified facts."
+                    },
+                    {
+                        "question": "What shape does sin(x) or cos(x) make on a graph?",
+                        "options": [
+                            "Waves",
+                            "A Straight Line",
+                            "A Parabola",
+                            "Zig-Zags"
+                        ],
+                        "answer": "Waves",
+                        "explanation": "The correct answer is 'Waves'. One of the incorrect answers is 'A Parabola', which is not accurate because it doesn't align with verified facts."
+                    },
+                    {
+                        "question": "What are the first 6 digits of the number \"Pi\"?",
+                        "options": [
+                            "3.25812",
+                            "3.14159",
+                            "3.14169",
+                            "3.12423"
+                        ],
+                        "answer": "3.14159",
+                        "explanation": "The correct answer is '3.14159'. One of the incorrect answers is '3.14169', which is not accurate because it doesn't align with verified facts."
+                    },
+                    {
+                        "question": "What is the Roman numeral for 500?",
+                        "options": [
+                            "C",
+                            "X",
+                            "D",
+                            "L"
+                        ],
+                        "answer": "D",
+                        "explanation": "The correct answer is 'D'. One of the incorrect answers is 'L', which is not accurate because it doesn't align with verified facts."
+                    },
+                    {
+                        "question": "What Greek letter is used to signify summation?",
+                        "options": [
+                            "Alpha",
+                            "Omega",
+                            "Sigma",
+                            "Delta"
+                        ],
+                        "answer": "Sigma",
+                        "explanation": "The correct answer is 'Sigma'. One of the incorrect answers is 'Delta', which is not accurate because it doesn't align with verified facts."
+                    }
+                ]
+            }
+        },
+        "Mythology": {
+            "medium": {
+                "score": 2,
+                "quiz": [
+                    {
+                        "question": "Who is the God Loki's son? ",
+                        "options": [
+                            "Odin",
+                            "Sigyn",
+                            "Fenrir ",
+                            "Hel"
+                        ],
+                        "answer": "Fenrir ",
+                        "explanation": "The correct answer is 'Fenrir '. One of the incorrect answers is 'Odin', which is not accurate because it doesn't align with verified facts."
+                    },
+                    {
+                        "question": "Which of these Roman gods doesn't have a counterpart in Greek mythology?",
+                        "options": [
+                            "Janus",
+                            "Vulcan",
+                            "Juno",
+                            "Mars"
+                        ],
+                        "answer": "Janus",
+                        "explanation": "The correct answer is 'Janus'. One of the incorrect answers is 'Vulcan', which is not accurate because it doesn't align with verified facts."
+                    },
+                    {
+                        "question": "According to Japanese folklore, what is the favorite food of the Kappa.",
+                        "options": [
+                            "Nasu",
+                            "Soba",
+                            "Cucumbers",
+                            "Kabocha"
+                        ],
+                        "answer": "Cucumbers",
+                        "explanation": "The correct answer is 'Cucumbers'. One of the incorrect answers is 'Kabocha', which is not accurate because it doesn't align with verified facts."
+                    },
+                    {
+                        "question": "In Norse Mythology, Baldr was killed by Loki with a magical spear made from what plant?",
+                        "options": [
+                            "Mistletoe",
+                            "Hemlock",
+                            "Wolf's Bane",
+                            "Buckthorn"
+                        ],
+                        "answer": "Mistletoe",
+                        "explanation": "The correct answer is 'Mistletoe'. One of the incorrect answers is 'Wolf's Bane', which is not accurate because it doesn't align with verified facts."
+                    },
+                    {
+                        "question": "This Greek mythological figure is the god/goddess of battle strategy (among other things).",
+                        "options": [
+                            "Athena",
+                            "Artemis",
+                            "Ares",
+                            "Apollo"
+                        ],
+                        "answer": "Athena",
+                        "explanation": "The correct answer is 'Athena'. One of the incorrect answers is 'Ares', which is not accurate because it doesn't align with verified facts."
+                    }
+                ],
+                "user_answers": [
+                    "Odin",
+                    "Mars",
+                    "Soba",
+                    "Mistletoe",
+                    "Athena"
+                ]
+            }
+        },
+        "General Knowledge": {
+            "hard": {
+                "score": 1,
+                "quiz": [
+                    {
+                        "question": "What is the romanized Korean word for \"heart\"?",
+                        "options": [
+                            "Segseu",
+                            "Aejeong",
+                            "Jeongsin",
+                            "Simjang"
+                        ],
+                        "answer": "Simjang",
+                        "explanation": "The correct answer is 'Simjang'. One of the incorrect answers is 'Aejeong', which is not accurate because it doesn't align with verified facts."
+                    },
+                    {
+                        "question": "Before the 19th Century, the \"Living Room\" was originally called the...",
+                        "options": [
+                            "Sitting Room",
+                            "Loft",
+                            "Open Room",
+                            "Parlor"
+                        ],
+                        "answer": "Parlor",
+                        "explanation": "The correct answer is 'Parlor'. One of the incorrect answers is 'Open Room', which is not accurate because it doesn't align with verified facts."
+                    },
+                    {
+                        "question": "How many calories are in a 355 ml can of Pepsi Cola?",
+                        "options": [
+                            "100",
+                            "200",
+                            "155",
+                            "150"
+                        ],
+                        "answer": "150",
+                        "explanation": "The correct answer is '150'. One of the incorrect answers is '200', which is not accurate because it doesn't align with verified facts."
+                    },
+                    {
+                        "question": "Which of the following is not another name for the eggplant?",
+                        "options": [
+                            "Guinea Squash",
+                            "Melongene",
+                            "Brinjal",
+                            "Potimarron"
+                        ],
+                        "answer": "Potimarron",
+                        "explanation": "The correct answer is 'Potimarron'. One of the incorrect answers is 'Brinjal', which is not accurate because it doesn't align with verified facts."
+                    },
+                    {
+                        "question": "Located in Chile, El Teniente is the world's largest underground mine for what metal?",
+                        "options": [
+                            "Nickel",
+                            "Silver",
+                            "Copper",
+                            "Iron"
+                        ],
+                        "answer": "Copper",
+                        "explanation": "The correct answer is 'Copper'. One of the incorrect answers is 'Iron', which is not accurate because it doesn't align with verified facts."
+                    }
+                ]
+            }
+        },
+        "Geography": {
+            "easy": {
+                "score": 2,
+                "quiz": [
+                    {
+                        "question": "What country has a horizontal bicolor red and white flag?",
+                        "options": [
+                            "Bahrain",
+                            "Monaco",
+                            "Liechenstein",
+                            "Malta"
+                        ],
+                        "answer": "Monaco",
+                        "explanation": "The correct answer is 'Monaco'. One of the incorrect answers is 'Bahrain', which is not accurate because it doesn't align with verified facts."
+                    },
+                    {
+                        "question": "Which small country is located between the borders of France and Spain?",
+                        "options": [
+                            "Andorra",
+                            "Lichtenstein",
+                            "Vatican City",
+                            "San Marino"
+                        ],
+                        "answer": "Andorra",
+                        "explanation": "The correct answer is 'Andorra'. One of the incorrect answers is 'San Marino', which is not accurate because it doesn't align with verified facts."
+                    },
+                    {
+                        "question": "What state is the largest state of the United States of America?",
+                        "options": [
+                            "Washington",
+                            "California",
+                            "Texas",
+                            "Alaska"
+                        ],
+                        "answer": "Alaska",
+                        "explanation": "The correct answer is 'Alaska'. One of the incorrect answers is 'California', which is not accurate because it doesn't align with verified facts."
+                    },
+                    {
+                        "question": "What is Canada's smallest province?",
+                        "options": [
+                            "Nova Scotia",
+                            "New Brunswick",
+                            "Prince Edward Island",
+                            "Yukon"
+                        ],
+                        "answer": "Prince Edward Island",
+                        "explanation": "The correct answer is 'Prince Edward Island'. One of the incorrect answers is 'New Brunswick', which is not accurate because it doesn't align with verified facts."
+                    },
+                    {
+                        "question": "What is the capital of Jamaica?",
+                        "options": [
+                            "San Juan",
+                            "Port-au-Prince",
+                            "Bridgetown",
+                            "Kingston"
+                        ],
+                        "answer": "Kingston",
+                        "explanation": "The correct answer is 'Kingston'. One of the incorrect answers is 'San Juan', which is not accurate because it doesn't align with verified facts."
+                    }
+                ]
+            }
+        }
+    },
+    "Rahul": {
+        "Animals": {
+            "easy": {
+                "score": 3,
+                "quiz": [
+                    {
+                        "question": "By definition, where does an abyssopelagic animal live?",
+                        "options": [
+                            "Inside a tree",
+                            "On top of a mountain",
+                            "At the bottom of the ocean",
+                            "In the desert"
+                        ],
+                        "answer": "At the bottom of the ocean",
+                        "explanation": "The correct answer is 'At the bottom of the ocean'. One of the incorrect answers is 'In the desert', which is not accurate because it doesn't align with verified facts."
+                    },
+                    {
+                        "question": "The K\u0101k\u0101p\u014d is a large, flightless, nocturnal parrot native to which country?",
+                        "options": [
+                            "Madagascar",
+                            "Australia",
+                            "New Zealand",
+                            "South Africa"
+                        ],
+                        "answer": "New Zealand",
+                        "explanation": "The correct answer is 'New Zealand'. One of the incorrect answers is 'South Africa', which is not accurate because it doesn't align with verified facts."
+                    },
+                    {
+                        "question": "How many legs do butterflies have?",
+                        "options": [
+                            "0",
+                            "2",
+                            "6",
+                            "4"
+                        ],
+                        "answer": "6",
+                        "explanation": "The correct answer is '6'. One of the incorrect answers is '2', which is not accurate because it doesn't align with verified facts."
+                    },
+                    {
+                        "question": "What is the fastest  land animal?",
+                        "options": [
+                            "Lion",
+                            "Thomson\u2019s Gazelle",
+                            "Pronghorn Antelope",
+                            "Cheetah"
+                        ],
+                        "answer": "Cheetah",
+                        "explanation": "The correct answer is 'Cheetah'. One of the incorrect answers is 'Lion', which is not accurate because it doesn't align with verified facts."
+                    },
+                    {
+                        "question": "Hippocampus is the Latin name for which marine creature?",
+                        "options": [
+                            "Whale",
+                            "Seahorse",
+                            "Octopus",
+                            "Dolphin"
+                        ],
+                        "answer": "Seahorse",
+                        "explanation": "The correct answer is 'Seahorse'. One of the incorrect answers is 'Dolphin', which is not accurate because it doesn't align with verified facts."
+                    }
+                ]
+            }
+        },
+        "Celebrities": {
+            "easy": {
+                "score": 3,
+                "quiz": [
+                    {
+                        "question": "Which celebrity announced his presidency in 2015?",
+                        "options": [
+                            "Miley Cyrus",
+                            "Kanye West",
+                            "Donald Trump",
+                            "Leonardo DiCaprio"
+                        ],
+                        "answer": "Kanye West",
+                        "explanation": "The correct answer is 'Kanye West'. One of the incorrect answers is 'Donald Trump', which is not accurate because it doesn't align with verified facts."
+                    },
+                    {
+                        "question": "By which name is Ramon Estevez better known as?",
+                        "options": [
+                            "Charlie Sheen",
+                            "Ramon Sheen",
+                            "Emilio Estevez",
+                            "Martin Sheen"
+                        ],
+                        "answer": "Martin Sheen",
+                        "explanation": "The correct answer is 'Martin Sheen'. One of the incorrect answers is 'Charlie Sheen', which is not accurate because it doesn't align with verified facts."
+                    },
+                    {
+                        "question": "What was the cause of Marilyn Monroes suicide?",
+                        "options": [
+                            "Drug Overdose",
+                            "Gunshot",
+                            "Knife Attack",
+                            "House Fire"
+                        ],
+                        "answer": "Drug Overdose",
+                        "explanation": "The correct answer is 'Drug Overdose'. One of the incorrect answers is 'Knife Attack', which is not accurate because it doesn't align with verified facts."
+                    },
+                    {
+                        "question": "Gwyneth Paltrow has a daughter named...?",
+                        "options": [
+                            "Lily",
+                            "French",
+                            "Apple",
+                            "Dakota"
+                        ],
+                        "answer": "Apple",
+                        "explanation": "The correct answer is 'Apple'. One of the incorrect answers is 'Lily', which is not accurate because it doesn't align with verified facts."
+                    },
+                    {
+                        "question": "Named after a character he played in a 1969 film, what is the name of the ski resort in Utah that Robert Redford bought in 1968?",
+                        "options": [
+                            "Booker",
+                            "Sundance",
+                            "Woodward",
+                            "Turner"
+                        ],
+                        "answer": "Sundance",
+                        "explanation": "The correct answer is 'Sundance'. One of the incorrect answers is 'Woodward', which is not accurate because it doesn't align with verified facts."
+                    }
+                ]
+            }
+        }
+    },
+    "Shivraj": {
+        "Entertainment: Video Games": {
+            "easy": {
+                "score": 1,
+                "quiz": [
+                    {
+                        "question": "Which of the following is NOT a Nintendo game console?",
+                        "options": [
+                            "Wii",
+                            "Dreamcast",
+                            "SNES",
+                            "Switch"
+                        ],
+                        "answer": "Dreamcast",
+                        "explanation": "The correct answer is 'Dreamcast'. One of the incorrect answers is 'SNES', which is not accurate because it doesn't align with verified facts."
+                    },
+                    {
+                        "question": "Which of the following games has the largest map size?",
+                        "options": [
+                            "The Elder Scrolls 4:  Oblivion",
+                            "Grand Theft Auto 5",
+                            "Just Cause 2",
+                            "The Witcher 3:  Wild Hunt"
+                        ],
+                        "answer": "Just Cause 2",
+                        "explanation": "The correct answer is 'Just Cause 2'. One of the incorrect answers is 'Grand Theft Auto 5', which is not accurate because it doesn't align with verified facts."
+                    },
+                    {
+                        "question": "In the game \"Hearthstone\", what is the best rank possible?",
+                        "options": [
+                            "Rank 1 Legend",
+                            "Rank 1 Master",
+                            "Rank 1 Supreme",
+                            "Rank 1 Elite"
+                        ],
+                        "answer": "Rank 1 Legend",
+                        "explanation": "The correct answer is 'Rank 1 Legend'. One of the incorrect answers is 'Rank 1 Elite', which is not accurate because it doesn't align with verified facts."
+                    },
+                    {
+                        "question": "Which franchise does the creature \"Slowpoke\" originate from?",
+                        "options": [
+                            "Yugioh",
+                            "Dragon Ball",
+                            "Sonic The Hedgehog",
+                            "Pokemon"
+                        ],
+                        "answer": "Pokemon",
+                        "explanation": "The correct answer is 'Pokemon'. One of the incorrect answers is 'Dragon Ball', which is not accurate because it doesn't align with verified facts."
+                    },
+                    {
+                        "question": "What video game sparked controversy because of its hidden \"Hot Coffee\" minigame?",
+                        "options": [
+                            "Grand Theft Auto: Vice City",
+                            "Hitman: Blood Money",
+                            "Cooking Mama",
+                            "Grand Theft Auto: San Andreas"
+                        ],
+                        "answer": "Grand Theft Auto: San Andreas",
+                        "explanation": "The correct answer is 'Grand Theft Auto: San Andreas'. One of the incorrect answers is 'Grand Theft Auto: Vice City', which is not accurate because it doesn't align with verified facts."
+                    }
+                ]
+            }
+        }
+    },
+    "Vinay": {
+        "History": {
+            "easy": {
+                "score": 1,
+                "quiz": [
+                    {
+                        "question": "What was William Frederick Cody better known as?",
+                        "options": [
+                            "Wild Bill Hickok",
+                            "Buffalo Bill",
+                            "Billy the Kid",
+                            "Pawnee Bill"
+                        ],
+                        "answer": "Buffalo Bill",
+                        "explanation": "The correct answer is 'Buffalo Bill'. One of the incorrect answers is 'Billy the Kid', which is not accurate because it doesn't align with verified facts."
+                    },
+                    {
+                        "question": "Which one of these was not a beach landing site in the Invasion of Normandy?",
+                        "options": [
+                            "Gold",
+                            "Sword",
+                            "Juno",
+                            "Silver"
+                        ],
+                        "answer": "Silver",
+                        "explanation": "The correct answer is 'Silver'. One of the incorrect answers is 'Gold', which is not accurate because it doesn't align with verified facts."
+                    },
+                    {
+                        "question": "What was the first sport to have been played on the moon?",
+                        "options": [
+                            "Football",
+                            "Golf",
+                            "Soccer",
+                            "Tennis"
+                        ],
+                        "answer": "Golf",
+                        "explanation": "The correct answer is 'Golf'. One of the incorrect answers is 'Football', which is not accurate because it doesn't align with verified facts."
+                    },
+                    {
+                        "question": "Which of the following ancient peoples was NOT classified as Hellenic (Greek)?",
+                        "options": [
+                            "Dorians",
+                            "Illyrians",
+                            "Achaeans",
+                            "Ionians"
+                        ],
+                        "answer": "Illyrians",
+                        "explanation": "The correct answer is 'Illyrians'. One of the incorrect answers is 'Dorians', which is not accurate because it doesn't align with verified facts."
+                    },
+                    {
+                        "question": "In 1453, which important city fell?",
+                        "options": [
+                            "Hamburg",
+                            "Constantinople",
+                            "Rome",
+                            "Athens"
+                        ],
+                        "answer": "Constantinople",
+                        "explanation": "The correct answer is 'Constantinople'. One of the incorrect answers is 'Rome', which is not accurate because it doesn't align with verified facts."
+                    }
+                ]
+            }
+        }
+    },
+    "Kavya": {
+        "Sports": {
+            "medium": {
+                "score": 2,
+                "quiz": [
+                    {
+                        "question": "Who was the topscorer for England national football team?",
+                        "options": [
+                            "Wayne Rooney",
+                            "David Beckham",
+                            "Steven Gerrard",
+                            "Michael Owen"
+                        ],
+                        "answer": "Wayne Rooney",
+                        "explanation": "The correct answer is 'Wayne Rooney'. One of the incorrect answers is 'David Beckham', which is not accurate because it doesn't align with verified facts."
+                    },
+                    {
+                        "question": "Who was the first footballer to score 200 goals in the English Premier League?",
+                        "options": [
+                            "Alan Shearer",
+                            "Robbie Fowler",
+                            "Wayne Rooney",
+                            "Thierry Henry"
+                        ],
+                        "answer": "Alan Shearer",
+                        "explanation": "The correct answer is 'Alan Shearer'. One of the incorrect answers is 'Wayne Rooney', which is not accurate because it doesn't align with verified facts."
+                    },
+                    {
+                        "question": "What national team won the 2016 edition of UEFA European Championship?",
+                        "options": [
+                            "Portugal",
+                            "Germany",
+                            "France",
+                            "England"
+                        ],
+                        "answer": "Portugal",
+                        "explanation": "The correct answer is 'Portugal'. One of the incorrect answers is 'France', which is not accurate because it doesn't align with verified facts."
+                    },
+                    {
+                        "question": "Which of the following Grand Slam tennis tournaments occurs LAST?",
+                        "options": [
+                            "US Open",
+                            "Australian Open",
+                            "Wimbledon",
+                            "French Open"
+                        ],
+                        "answer": "US Open",
+                        "explanation": "The correct answer is 'US Open'. One of the incorrect answers is 'French Open', which is not accurate because it doesn't align with verified facts."
+                    },
+                    {
+                        "question": "Which country is hosting the 2022 FIFA World Cup?",
+                        "options": [
+                            "Bolivia",
+                            "Vietnam",
+                            "Uganda",
+                            "Qatar"
+                        ],
+                        "answer": "Qatar",
+                        "explanation": "The correct answer is 'Qatar'. One of the incorrect answers is 'Uganda', which is not accurate because it doesn't align with verified facts."
+                    }
+                ]
+            }
+        },
+        "Entertainment: Video Games": {
+            "medium": {
+                "score": 1,
+                "quiz": [
+                    {
+                        "question": "What happened to Half-Life 2 prior to its release, which resulted in Valve starting over the development of the game?",
+                        "options": [
+                            "They weren't satisfied with the result",
+                            "Way too many bugs to be fixed",
+                            "The story was not good enough",
+                            "The source code got leaked"
+                        ],
+                        "answer": "The source code got leaked",
+                        "explanation": "The correct answer is 'The source code got leaked'. One of the incorrect answers is 'They weren't satisfied with the result', which is not accurate because it doesn't align with verified facts."
+                    },
+                    {
+                        "question": "What name does the little headcrab in \"Half Life 2\" have?",
+                        "options": [
+                            "Jerry",
+                            "Lamarr",
+                            "Jumperr",
+                            "Drett"
+                        ],
+                        "answer": "Lamarr",
+                        "explanation": "The correct answer is 'Lamarr'. One of the incorrect answers is 'Jumperr', which is not accurate because it doesn't align with verified facts."
+                    },
+                    {
+                        "question": "Which of these is NOT the name of a playable map in PUBG: Battlegrounds?",
+                        "options": [
+                            "Orinocco",
+                            "Vikendi",
+                            "Miramar",
+                            "Sanhok"
+                        ],
+                        "answer": "Orinocco",
+                        "explanation": "The correct answer is 'Orinocco'. One of the incorrect answers is 'Miramar', which is not accurate because it doesn't align with verified facts."
+                    },
+                    {
+                        "question": "In the original DOOM games, which of the following demons is a recolor of the Baron of Hell, but is weaker than the Baron?",
+                        "options": [
+                            "Arch-Vile",
+                            "Mancubus",
+                            "Pinky",
+                            "Hell Knight"
+                        ],
+                        "answer": "Hell Knight",
+                        "explanation": "The correct answer is 'Hell Knight'. One of the incorrect answers is 'Mancubus', which is not accurate because it doesn't align with verified facts."
+                    },
+                    {
+                        "question": "In what year were screenshots added to Steam?",
+                        "options": [
+                            "2008",
+                            "2011",
+                            "2010",
+                            "2009"
+                        ],
+                        "answer": "2011",
+                        "explanation": "The correct answer is '2011'. One of the incorrect answers is '2010', which is not accurate because it doesn't align with verified facts."
+                    }
+                ]
+            }
+        }
+    },
+    "girish": {
+        "Sports": {
+            "easy": {
+                "score": 1,
+                "quiz": [
+                    {
+                        "question": "Which two teams played in Super Bowl XLII?",
+                        "options": [
+                            "The New York Giants & The New England Patriots",
+                            "The Philadelphia Eagles & The New England Patriots",
+                            "The Seattle Seahawks & The Denver Broncos",
+                            "The Green Bay Packers & The Pittsburgh Steelers"
+                        ],
+                        "answer": "The New York Giants & The New England Patriots",
+                        "explanation": "The correct answer is 'The New York Giants & The New England Patriots'. One of the incorrect answers is 'The Green Bay Packers & The Pittsburgh Steelers', which is not accurate because it doesn't align with verified facts."
+                    },
+                    {
+                        "question": "In bowling, what is the term used for getting three consecutive strikes?",
+                        "options": [
+                            "Birdie",
+                            "Eagle",
+                            "Turkey",
+                            "Flamingo"
+                        ],
+                        "answer": "Turkey",
+                        "explanation": "The correct answer is 'Turkey'. One of the incorrect answers is 'Flamingo', which is not accurate because it doesn't align with verified facts."
+                    },
+                    {
+                        "question": "Who did Steven Gerrard win the Champions League with?",
+                        "options": [
+                            "Chelsea",
+                            "Real Madrid",
+                            "Man City",
+                            "Liverpool"
+                        ],
+                        "answer": "Liverpool",
+                        "explanation": "The correct answer is 'Liverpool'. One of the incorrect answers is 'Real Madrid', which is not accurate because it doesn't align with verified facts."
+                    },
+                    {
+                        "question": "In Baseball, how many times does the ball have to be pitched outside of the strike zone before the batter is walked?",
+                        "options": [
+                            "2",
+                            "4",
+                            "3",
+                            "1"
+                        ],
+                        "answer": "4",
+                        "explanation": "The correct answer is '4'. One of the incorrect answers is '1', which is not accurate because it doesn't align with verified facts."
+                    },
+                    {
+                        "question": "How many soccer players should be on the field at the same time?",
+                        "options": [
+                            "26",
+                            "20",
+                            "24",
+                            "22"
+                        ],
+                        "answer": "22",
+                        "explanation": "The correct answer is '22'. One of the incorrect answers is '20', which is not accurate because it doesn't align with verified facts."
+                    }
+                ]
+            }
+        }
+    },
+    "praveen": {
+        "Vehicles": {
+            "medium": {
+                "score": 1,
+                "quiz": [
+                    {
+                        "question": "What nickname was given to Air Canada Flight 143 after it ran out of fuel and glided to safety in 1983?",
+                        "options": [
+                            "Gimli Superb",
+                            "Gimli Microlight",
+                            "Gimli Glider",
+                            "Gimli Chaser"
+                        ],
+                        "answer": "Gimli Glider",
+                        "explanation": "The correct answer is 'Gimli Glider'. One of the incorrect answers is 'Gimli Microlight', which is not accurate because it doesn't align with verified facts."
+                    },
+                    {
+                        "question": "Which car manufacturer created the \"Aventador\"?",
+                        "options": [
+                            "Bugatti",
+                            "Pagani",
+                            "Lamborghini",
+                            "Ferrari"
+                        ],
+                        "answer": "Lamborghini",
+                        "explanation": "The correct answer is 'Lamborghini'. One of the incorrect answers is 'Ferrari', which is not accurate because it doesn't align with verified facts."
+                    },
+                    {
+                        "question": "Enzo Ferrari was originally an auto racer for what manufacturer before founding his own car company?",
+                        "options": [
+                            "Bentley",
+                            "Mercedes Benz",
+                            "Auto Union",
+                            "Alfa Romeo"
+                        ],
+                        "answer": "Alfa Romeo",
+                        "explanation": "The correct answer is 'Alfa Romeo'. One of the incorrect answers is 'Auto Union', which is not accurate because it doesn't align with verified facts."
+                    },
+                    {
+                        "question": "When was Tesla founded?",
+                        "options": [
+                            "2005",
+                            "2007",
+                            "2008",
+                            "2003"
+                        ],
+                        "answer": "2003",
+                        "explanation": "The correct answer is '2003'. One of the incorrect answers is '2008', which is not accurate because it doesn't align with verified facts."
+                    },
+                    {
+                        "question": "Which of the following passenger jets is the longest?",
+                        "options": [
+                            "Airbus A330-200",
+                            "Boeing 787-10",
+                            "Airbus A350-1000",
+                            "Boeing 747-8"
+                        ],
+                        "answer": "Boeing 747-8",
+                        "explanation": "The correct answer is 'Boeing 747-8'. One of the incorrect answers is 'Airbus A350-1000', which is not accurate because it doesn't align with verified facts."
+                    }
+                ]
+            }
+        }
+    },
+    "Jaswant": {
+        "Entertainment: Music": {
+            "easy": {
+                "score": 2,
+                "quiz": [
+                    {
+                        "question": "Which famous artist featured on Rowdy Rebel's 2015 song \"Computers\"?",
+                        "options": [
+                            "Bobby Shmurda ",
+                            "Kendrick Lamar",
+                            "Lil Wayne",
+                            "Will.I.AM"
+                        ],
+                        "answer": "Bobby Shmurda ",
+                        "explanation": "The correct answer is 'Bobby Shmurda '. One of the incorrect answers is 'Lil Wayne', which is not accurate because it doesn't align with verified facts."
+                    },
+                    {
+                        "question": "How many strings are there on a cello?",
+                        "options": [
+                            "8",
+                            "5",
+                            "4",
+                            "6"
+                        ],
+                        "answer": "4",
+                        "explanation": "The correct answer is '4'. One of the incorrect answers is '5', which is not accurate because it doesn't align with verified facts."
+                    },
+                    {
+                        "question": "Whose signature guitar technique is called the \"windmill\"?",
+                        "options": [
+                            "Jimmy Page",
+                            "Jimi Hendrix",
+                            "Eddie Van Halen",
+                            "Pete Townshend"
+                        ],
+                        "answer": "Pete Townshend",
+                        "explanation": "The correct answer is 'Pete Townshend'. One of the incorrect answers is 'Jimmy Page', which is not accurate because it doesn't align with verified facts."
+                    },
+                    {
+                        "question": "\"The Singing Cowboy\" Gene Autry is credited with the first recording for all but which classic Christmas jingle?",
+                        "options": [
+                            "Here Comes Santa Claus",
+                            "White Christmas",
+                            "Frosty the Snowman",
+                            "Rudolph the Red-Nosed Reindeer"
+                        ],
+                        "answer": "White Christmas",
+                        "explanation": "The correct answer is 'White Christmas'. One of the incorrect answers is 'Frosty the Snowman', which is not accurate because it doesn't align with verified facts."
+                    },
+                    {
+                        "question": "Brian May was the guitarist for which band?",
+                        "options": [
+                            "The Doors",
+                            "Rolling Stones",
+                            "Pink Floyd",
+                            "Queen"
+                        ],
+                        "answer": "Queen",
+                        "explanation": "The correct answer is 'Queen'. One of the incorrect answers is 'Pink Floyd', which is not accurate because it doesn't align with verified facts."
+                    }
+                ]
+            }
+        }
+    },
+    "Furqan": {
+        "Entertainment: Music": {
+            "easy": {
+                "score": 3,
+                "quiz": [
+                    {
+                        "question": "How many strings are there on a cello?",
+                        "options": [
+                            "8",
+                            "6",
+                            "5",
+                            "4"
+                        ],
+                        "answer": "4",
+                        "explanation": "The correct answer is '4'. One of the incorrect answers is '5', which is not accurate because it doesn't align with verified facts."
+                    },
+                    {
+                        "question": "Which of these are NOT a Men at Work song?",
+                        "options": [
+                            "Dr. Heckyll and Mr. Jive",
+                            "Who Can It Be Now?",
+                            "Be Good Johnny",
+                            "Basket Case"
+                        ],
+                        "answer": "Basket Case",
+                        "explanation": "The correct answer is 'Basket Case'. One of the incorrect answers is 'Dr. Heckyll and Mr. Jive', which is not accurate because it doesn't align with verified facts."
+                    },
+                    {
+                        "question": "What is the best selling album of all time from 1976 to 2018?",
+                        "options": [
+                            "Thriller",
+                            "Abbey Road",
+                            "The Dark Side of the Moon",
+                            "Back in Black"
+                        ],
+                        "answer": "Thriller",
+                        "explanation": "The correct answer is 'Thriller'. One of the incorrect answers is 'Back in Black', which is not accurate because it doesn't align with verified facts."
+                    },
+                    {
+                        "question": "Which one of these songs did the group \"Men At Work\" NOT make?",
+                        "options": [
+                            "Safety Dance",
+                            "Down Under",
+                            "It's a Mistake",
+                            "Who Can It Be Now?"
+                        ],
+                        "answer": "Safety Dance",
+                        "explanation": "The correct answer is 'Safety Dance'. One of the incorrect answers is 'Down Under', which is not accurate because it doesn't align with verified facts."
+                    },
+                    {
+                        "question": "In 2006, which band released their debut album \"A Fever You Can't Sweat Out\"?",
+                        "options": [
+                            "Fall Out Boy",
+                            "Panic! At the Disco",
+                            "My Chemical Romance",
+                            "Twenty One Pilots"
+                        ],
+                        "answer": "Panic! At the Disco",
+                        "explanation": "The correct answer is 'Panic! At the Disco'. One of the incorrect answers is 'Twenty One Pilots', which is not accurate because it doesn't align with verified facts."
+                    }
+                ]
+            }
+        }
+    },
+    "Gill": {
+        "Politics": {
+            "hard": {
+                "score": 2,
+                "quiz": [
+                    {
+                        "question": "Which of these was an official candidate in the 2017 British General Election?",
+                        "options": [
+                            "Lord Buckethead",
+                            "Sir Crumpetsby",
+                            "James Francis",
+                            "Robert Wimbledon"
+                        ],
+                        "answer": "Lord Buckethead",
+                        "explanation": "The correct answer is 'Lord Buckethead'. One of the incorrect answers is 'James Francis', which is not accurate because it doesn't align with verified facts."
+                    },
+                    {
+                        "question": "Which of the following United States senators is known for performing a 24-hour long filibuster?",
+                        "options": [
+                            "Strom Thurmond",
+                            "Roy Blunt",
+                            "John Barrasso",
+                            "Chuck Schumer"
+                        ],
+                        "answer": "Strom Thurmond",
+                        "explanation": "The correct answer is 'Strom Thurmond'. One of the incorrect answers is 'Roy Blunt', which is not accurate because it doesn't align with verified facts."
+                    },
+                    {
+                        "question": "Starting from 2000, China banned manufacturing and sales of all video game consoles. On which year was this ban lifted?",
+                        "options": [
+                            "2015",
+                            "2017",
+                            "2012",
+                            "2008"
+                        ],
+                        "answer": "2015",
+                        "explanation": "The correct answer is '2015'. One of the incorrect answers is '2012', which is not accurate because it doesn't align with verified facts."
+                    },
+                    {
+                        "question": "What year did the effort to deploy the Common Core State Standards (CCSS) in the US begin?",
+                        "options": [
+                            "1997",
+                            "2006",
+                            "2009",
+                            "2012"
+                        ],
+                        "answer": "2009",
+                        "explanation": "The correct answer is '2009'. One of the incorrect answers is '2012', which is not accurate because it doesn't align with verified facts."
+                    },
+                    {
+                        "question": "Which letter do you need to have on a European driver license in order to ride any motorbikes?",
+                        "options": [
+                            "D",
+                            "B",
+                            "A",
+                            "X"
+                        ],
+                        "answer": "A",
+                        "explanation": "The correct answer is 'A'. One of the incorrect answers is 'X', which is not accurate because it doesn't align with verified facts."
+                    }
+                ]
+            }
+        }
+    },
+    "Atharva": {
+        "Sports": {
+            "easy": {
+                "score": 1,
+                "quiz": [
+                    {
+                        "question": "In bowling, what is the term used for getting three consecutive strikes?",
+                        "options": [
+                            "Birdie",
+                            "Turkey",
+                            "Flamingo",
+                            "Eagle"
+                        ],
+                        "answer": "Turkey",
+                        "explanation": "The correct answer is 'Turkey'. One of the incorrect answers is 'Flamingo', which is not accurate because it doesn't align with verified facts."
+                    },
+                    {
+                        "question": "Which boxer was banned for taking a bite out of Evander Holyfield's ear in 1997?",
+                        "options": [
+                            "Evander Holyfield",
+                            "Lennox Lewis",
+                            "Mike Tyson",
+                            "Roy Jones Jr."
+                        ],
+                        "answer": "Mike Tyson",
+                        "explanation": "The correct answer is 'Mike Tyson'. One of the incorrect answers is 'Roy Jones Jr.', which is not accurate because it doesn't align with verified facts."
+                    },
+                    {
+                        "question": "Which of the following sports is not part of the triathlon?",
+                        "options": [
+                            "Cycling",
+                            "Swimming",
+                            "Running",
+                            "Horse-Riding"
+                        ],
+                        "answer": "Horse-Riding",
+                        "explanation": "The correct answer is 'Horse-Riding'. One of the incorrect answers is 'Cycling', which is not accurate because it doesn't align with verified facts."
+                    },
+                    {
+                        "question": "Which player holds the NHL record of 2,857 points?",
+                        "options": [
+                            "Wayne Gretzky",
+                            "Mario Lemieux ",
+                            "Gordie Howe",
+                            "Sidney Crosby"
+                        ],
+                        "answer": "Wayne Gretzky",
+                        "explanation": "The correct answer is 'Wayne Gretzky'. One of the incorrect answers is 'Mario Lemieux ', which is not accurate because it doesn't align with verified facts."
+                    },
+                    {
+                        "question": "Which two teams played in Super Bowl XLII?",
+                        "options": [
+                            "The Green Bay Packers & The Pittsburgh Steelers",
+                            "The Seattle Seahawks & The Denver Broncos",
+                            "The Philadelphia Eagles & The New England Patriots",
+                            "The New York Giants & The New England Patriots"
+                        ],
+                        "answer": "The New York Giants & The New England Patriots",
+                        "explanation": "The correct answer is 'The New York Giants & The New England Patriots'. One of the incorrect answers is 'The Green Bay Packers & The Pittsburgh Steelers', which is not accurate because it doesn't align with verified facts."
+                    }
+                ]
+            }
+        }
+    },
+    "Surya": {
+        "Sports": {
+            "easy": {
+                "score": 3,
+                "quiz": [
+                    {
+                        "question": "How many players are there in an association football/soccer team?",
+                        "options": [
+                            "11",
+                            "9",
+                            "10",
+                            "8"
+                        ],
+                        "answer": "11",
+                        "explanation": "The correct answer is '11'. One of the incorrect answers is '10', which is not accurate because it doesn't align with verified facts."
+                    },
+                    {
+                        "question": "In the 2014 FIFA World Cup, what was the final score in the match Brazil - Germany?",
+                        "options": [
+                            "1-6",
+                            "1-5",
+                            "2-6",
+                            "1-7"
+                        ],
+                        "answer": "1-7",
+                        "explanation": "The correct answer is '1-7'. One of the incorrect answers is '1-5', which is not accurate because it doesn't align with verified facts."
+                    },
+                    {
+                        "question": "In Baseball, how many times does the ball have to be pitched outside of the strike zone before the batter is walked?",
+                        "options": [
+                            "1",
+                            "4",
+                            "3",
+                            "2"
+                        ],
+                        "answer": "4",
+                        "explanation": "The correct answer is '4'. One of the incorrect answers is '1', which is not accurate because it doesn't align with verified facts."
+                    },
+                    {
+                        "question": "Who won the UEFA Champions League in 2017?",
+                        "options": [
+                            "Juventus F.C.",
+                            "Real Madrid C.F.",
+                            "AS Monaco FC",
+                            "Atletico Madrid"
+                        ],
+                        "answer": "Real Madrid C.F.",
+                        "explanation": "The correct answer is 'Real Madrid C.F.'. One of the incorrect answers is 'Atletico Madrid', which is not accurate because it doesn't align with verified facts."
+                    },
+                    {
+                        "question": "When was the FC Schalke 04 founded?",
+                        "options": [
+                            "1909",
+                            "1904",
+                            "1999",
+                            "2008"
+                        ],
+                        "answer": "1904",
+                        "explanation": "The correct answer is '1904'. One of the incorrect answers is '1909', which is not accurate because it doesn't align with verified facts."
+                    }
+                ]
+            }
+        }
+    },
+    "Mounesh": {
+        "Entertainment: Japanese Anime & Manga": {
+            "easy": {
+                "score": 1,
+                "quiz": [
+                    {
+                        "question": "In the 2012 animated film \"Wolf Children\", what are the names of the wolf children?",
+                        "options": [
+                            "Chuck & Anna",
+                            "Hana & Yuki",
+                            "Ame & Hana",
+                            "Ame & Yuki"
+                        ],
+                        "answer": "Ame & Yuki",
+                        "explanation": "The correct answer is 'Ame & Yuki'. One of the incorrect answers is 'Hana & Yuki', which is not accurate because it doesn't align with verified facts."
+                    },
+                    {
+                        "question": "What year did \"Attack on Titan\" first air?",
+                        "options": [
+                            "2015",
+                            "2014",
+                            "2013",
+                            "2012"
+                        ],
+                        "answer": "2013",
+                        "explanation": "The correct answer is '2013'. One of the incorrect answers is '2014', which is not accurate because it doesn't align with verified facts."
+                    },
+                    {
+                        "question": "Who is the main heroine of the anime, Full Metal Panic!",
+                        "options": [
+                            "Kyoko Tokiwa",
+                            "Kaname Chidori",
+                            "Melissa Mao",
+                            "Teletha Testarossa"
+                        ],
+                        "answer": "Kaname Chidori",
+                        "explanation": "The correct answer is 'Kaname Chidori'. One of the incorrect answers is 'Teletha Testarossa', which is not accurate because it doesn't align with verified facts."
+                    },
+                    {
+                        "question": "In the 9th Pokemon movie, who is the Prince of the Sea?",
+                        "options": [
+                            "Manaphy",
+                            "Ash",
+                            "Phantom",
+                            "May"
+                        ],
+                        "answer": "Manaphy",
+                        "explanation": "The correct answer is 'Manaphy'. One of the incorrect answers is 'Ash', which is not accurate because it doesn't align with verified facts."
+                    },
+                    {
+                        "question": "What animation studio produced \"Gurren Lagann\"?",
+                        "options": [
+                            "Kyoto Animation",
+                            "Pierrot",
+                            "A-1 Pictures",
+                            "Gainax"
+                        ],
+                        "answer": "Gainax",
+                        "explanation": "The correct answer is 'Gainax'. One of the incorrect answers is 'Kyoto Animation', which is not accurate because it doesn't align with verified facts."
+                    }
+                ]
+            }
+        },
+        "Entertainment: Television": {
+            "medium": {
+                "score": 1,
+                "quiz": [
+                    {
+                        "question": "In Naruto: Shippuden, which of the following elements is a \"Kekkei T\u014dta?\"",
+                        "options": [
+                            "Particle Style",
+                            "Any Doujutsu",
+                            "Ice Style",
+                            "Shadow Style"
+                        ],
+                        "answer": "Particle Style",
+                        "explanation": "The correct answer is 'Particle Style'. One of the incorrect answers is 'Any Doujutsu', which is not accurate because it doesn't align with verified facts."
+                    },
+                    {
+                        "question": "Which of the following was not an actor/actress on the American television show \"Saturday Night Live\" in Season 42?",
+                        "options": [
+                            "Mikey Day",
+                            "Kate McKinnon",
+                            "Tina Fey",
+                            "Sasheer Zamata"
+                        ],
+                        "answer": "Tina Fey",
+                        "explanation": "The correct answer is 'Tina Fey'. One of the incorrect answers is 'Mikey Day', which is not accurate because it doesn't align with verified facts."
+                    },
+                    {
+                        "question": "What is the title of The Allman Brothers Band instrumental used as the theme to the BBC motoring show, 'Top Gear'?",
+                        "options": [
+                            "Jessica",
+                            "Sandra",
+                            "Erica",
+                            "Angela"
+                        ],
+                        "answer": "Jessica",
+                        "explanation": "The correct answer is 'Jessica'. One of the incorrect answers is 'Angela', which is not accurate because it doesn't align with verified facts."
+                    },
+                    {
+                        "question": "What was Nickelodeon's original name?",
+                        "options": [
+                            "MTVKids",
+                            "KidsTV",
+                            "Pinwheel",
+                            "Splat!"
+                        ],
+                        "answer": "Pinwheel",
+                        "explanation": "The correct answer is 'Pinwheel'. One of the incorrect answers is 'MTVKids', which is not accurate because it doesn't align with verified facts."
+                    },
+                    {
+                        "question": "Baron Silas Greenback is the arch nemesis of which cartoon hero?",
+                        "options": [
+                            "Bananaman",
+                            "Captain Star",
+                            "Danger Mouse",
+                            "SuperTed"
+                        ],
+                        "answer": "Danger Mouse",
+                        "explanation": "The correct answer is 'Danger Mouse'. One of the incorrect answers is 'Bananaman', which is not accurate because it doesn't align with verified facts."
+                    }
+                ]
+            }
+        },
+        "Science: Computers": {
+            "hard": {
+                "score": 3,
+                "quiz": [
+                    {
+                        "question": "The internet domain .fm is the country-code top-level domain for which Pacific Ocean island nation?",
+                        "options": [
+                            "Micronesia",
+                            "Fiji",
+                            "Marshall Islands",
+                            "Tuvalu"
+                        ],
+                        "answer": "Micronesia",
+                        "explanation": "The correct answer is 'Micronesia'. One of the incorrect answers is 'Fiji', which is not accurate because it doesn't align with verified facts."
+                    },
+                    {
+                        "question": "Which of these was the name of a bug found in April 2014 in the publicly available OpenSSL cryptography library?",
+                        "options": [
+                            "Corrupted Blood",
+                            "Shellshock",
+                            "Shellscript",
+                            "Heartbleed"
+                        ],
+                        "answer": "Heartbleed",
+                        "explanation": "The correct answer is 'Heartbleed'. One of the incorrect answers is 'Shellshock', which is not accurate because it doesn't align with verified facts."
+                    },
+                    {
+                        "question": "Which of the following is the oldest of these computers by release date?",
+                        "options": [
+                            "Apple 3",
+                            "ZX Spectrum",
+                            "Commodore 64",
+                            "TRS-80"
+                        ],
+                        "answer": "TRS-80",
+                        "explanation": "The correct answer is 'TRS-80'. One of the incorrect answers is 'Commodore 64', which is not accurate because it doesn't align with verified facts."
+                    },
+                    {
+                        "question": "What major programming language does Unreal Engine 4 use?",
+                        "options": [
+                            "ECMAScript",
+                            "C++",
+                            "C#",
+                            "Assembly"
+                        ],
+                        "answer": "C++",
+                        "explanation": "The correct answer is 'C++'. One of the incorrect answers is 'Assembly', which is not accurate because it doesn't align with verified facts."
+                    },
+                    {
+                        "question": "How many Hz does the video standard PAL support?",
+                        "options": [
+                            "50",
+                            "25",
+                            "59",
+                            "60"
+                        ],
+                        "answer": "50",
+                        "explanation": "The correct answer is '50'. One of the incorrect answers is '59', which is not accurate because it doesn't align with verified facts."
+                    }
+                ]
+            },
+            "easy": {
+                "score": 2,
+                "quiz": [
+                    {
+                        "question": "How many values can a single byte represent?",
+                        "options": [
+                            "1",
+                            "8",
+                            "256",
+                            "1024"
+                        ],
+                        "answer": "256",
+                        "explanation": "\nThe answer is: 256\n\n**Justification**  \nThe correct answer is '256' because it best addresses the core concept being tested. Here's why:\n\n1. It accurately reflects the main function, role, or fact related to the topic.\n2. It aligns with verified knowledge and widely accepted information.\n3. It provides a clear and logical interpretation of the question's context.\n\n**Other Options**  \nSome of the other choices, such as '8', might seem plausible but are ultimately incorrect because:\n\n- They either represent secondary or unrelated functions.\n- They may contain misconceptions or incomplete information.\n- They don't fully align with established facts or technical definitions.\n\n**Conclusion**  \nConsidering the key facts and reasoning above, '256' is clearly the most accurate and appropriate choice, making it the correct answer.\n"
+                    },
+                    {
+                        "question": "In \"Hexadecimal\", what color would be displayed from the color code? \"#00FF00\"?",
+                        "options": [
+                            "Red",
+                            "Yellow",
+                            "Green",
+                            "Blue"
+                        ],
+                        "answer": "Green",
+                        "explanation": "\nThe answer is: Green\n\n**Justification**  \nThe correct answer is 'Green' because it best addresses the core concept being tested. Here's why:\n\n1. It accurately reflects the main function, role, or fact related to the topic.\n2. It aligns with verified knowledge and widely accepted information.\n3. It provides a clear and logical interpretation of the question's context.\n\n**Other Options**  \nSome of the other choices, such as 'Red', might seem plausible but are ultimately incorrect because:\n\n- They either represent secondary or unrelated functions.\n- They may contain misconceptions or incomplete information.\n- They don't fully align with established facts or technical definitions.\n\n**Conclusion**  \nConsidering the key facts and reasoning above, 'Green' is clearly the most accurate and appropriate choice, making it the correct answer.\n"
+                    },
+                    {
+                        "question": "What language does Node.js use?",
+                        "options": [
+                            "Java Source",
+                            "Joomla Source Code",
+                            "JavaScript",
+                            "Java"
+                        ],
+                        "answer": "JavaScript",
+                        "explanation": "\nThe answer is: JavaScript\n\n**Justification**  \nThe correct answer is 'JavaScript' because it best addresses the core concept being tested. Here's why:\n\n1. It accurately reflects the main function, role, or fact related to the topic.\n2. It aligns with verified knowledge and widely accepted information.\n3. It provides a clear and logical interpretation of the question's context.\n\n**Other Options**  \nSome of the other choices, such as 'Java', might seem plausible but are ultimately incorrect because:\n\n- They either represent secondary or unrelated functions.\n- They may contain misconceptions or incomplete information.\n- They don't fully align with established facts or technical definitions.\n\n**Conclusion**  \nConsidering the key facts and reasoning above, 'JavaScript' is clearly the most accurate and appropriate choice, making it the correct answer.\n"
+                    },
+                    {
+                        "question": "This mobile OS held the largest market share in 2012.",
+                        "options": [
+                            "iOS",
+                            "Symbian",
+                            "BlackBerry",
+                            "Android"
+                        ],
+                        "answer": "iOS",
+                        "explanation": "\nThe answer is: iOS\n\n**Justification**  \nThe correct answer is 'iOS' because it best addresses the core concept being tested. Here's why:\n\n1. It accurately reflects the main function, role, or fact related to the topic.\n2. It aligns with verified knowledge and widely accepted information.\n3. It provides a clear and logical interpretation of the question's context.\n\n**Other Options**  \nSome of the other choices, such as 'Android', might seem plausible but are ultimately incorrect because:\n\n- They either represent secondary or unrelated functions.\n- They may contain misconceptions or incomplete information.\n- They don't fully align with established facts or technical definitions.\n\n**Conclusion**  \nConsidering the key facts and reasoning above, 'iOS' is clearly the most accurate and appropriate choice, making it the correct answer.\n"
+                    },
+                    {
+                        "question": "In web design, what does CSS stand for?",
+                        "options": [
+                            "Cascading Style Sheet",
+                            "Counter Strike: Source",
+                            "Computer Style Sheet",
+                            "Corrective Style Sheet"
+                        ],
+                        "answer": "Cascading Style Sheet",
+                        "explanation": "\nThe answer is: Cascading Style Sheet\n\n**Justification**  \nThe correct answer is 'Cascading Style Sheet' because it best addresses the core concept being tested. Here's why:\n\n1. It accurately reflects the main function, role, or fact related to the topic.\n2. It aligns with verified knowledge and widely accepted information.\n3. It provides a clear and logical interpretation of the question's context.\n\n**Other Options**  \nSome of the other choices, such as 'Counter Strike: Source', might seem plausible but are ultimately incorrect because:\n\n- They either represent secondary or unrelated functions.\n- They may contain misconceptions or incomplete information.\n- They don't fully align with established facts or technical definitions.\n\n**Conclusion**  \nConsidering the key facts and reasoning above, 'Cascading Style Sheet' is clearly the most accurate and appropriate choice, making it the correct answer.\n"
+                    }
+                ]
+            }
+        },
+        "Geography": {
+            "easy": {
+                "score": 1,
+                "quiz": [
+                    {
+                        "question": "Which US state has the highest population?",
+                        "options": [
+                            "Florida",
+                            "New York",
+                            "Texas",
+                            "California"
+                        ],
+                        "answer": "California",
+                        "explanation": "The correct answer is 'California'. One of the incorrect answers is 'New York', which is not accurate because it doesn't align with verified facts."
+                    },
+                    {
+                        "question": "Which US state is nicknamed \"The Golden State\"?",
+                        "options": [
+                            "New Mexico",
+                            "California",
+                            "Florida",
+                            "Alaska"
+                        ],
+                        "answer": "California",
+                        "explanation": "The correct answer is 'California'. One of the incorrect answers is 'Florida', which is not accurate because it doesn't align with verified facts."
+                    },
+                    {
+                        "question": "The Space Needle is located in which city?",
+                        "options": [
+                            "Toronto",
+                            "Seattle",
+                            "Los Angles",
+                            "Vancouver"
+                        ],
+                        "answer": "Seattle",
+                        "explanation": "The correct answer is 'Seattle'. One of the incorrect answers is 'Los Angles', which is not accurate because it doesn't align with verified facts."
+                    },
+                    {
+                        "question": "Which UK country features a dragon on their flag?",
+                        "options": [
+                            "England",
+                            "Wales",
+                            "North Ireland",
+                            "Scotland"
+                        ],
+                        "answer": "Wales",
+                        "explanation": "The correct answer is 'Wales'. One of the incorrect answers is 'England', which is not accurate because it doesn't align with verified facts."
+                    },
+                    {
+                        "question": "What is the capital of India?",
+                        "options": [
+                            "Montreal",
+                            "Tithi",
+                            "Beijing",
+                            "New Delhi"
+                        ],
+                        "answer": "New Delhi",
+                        "explanation": "The correct answer is 'New Delhi'. One of the incorrect answers is 'Beijing', which is not accurate because it doesn't align with verified facts."
+                    }
+                ]
+            }
+        },
+        "Science: Mathematics": {
+            "medium": {
+                "score": 2,
+                "quiz": [
+                    {
+                        "question": "What is the alphanumeric representation of the imaginary number?",
+                        "options": [
+                            "e",
+                            "x",
+                            "n",
+                            "i"
+                        ],
+                        "answer": "i",
+                        "explanation": "\nThe answer is: i\n\n**Justification**  \nThe correct answer is 'i' because it best addresses the core concept being tested. Here's why:\n\n1. It accurately reflects the main function, role, or fact related to the topic.\n2. It aligns with verified knowledge and widely accepted information.\n3. It provides a clear and logical interpretation of the question's context.\n\n**Other Options**  \nSome of the other choices, such as 'e', might seem plausible but are ultimately incorrect because:\n\n- They either represent secondary or unrelated functions.\n- They may contain misconceptions or incomplete information.\n- They don't fully align with established facts or technical definitions.\n\n**Conclusion**  \nConsidering the key facts and reasoning above, 'i' is clearly the most accurate and appropriate choice, making it the correct answer.\n"
+                    },
+                    {
+                        "question": "Which greek mathematician ran through the streets of Syracuse naked while shouting \"Eureka\" after discovering the principle of displacement?",
+                        "options": [
+                            "Eratosthenes",
+                            "Homer",
+                            "Archimedes",
+                            "Euclid"
+                        ],
+                        "answer": "Archimedes",
+                        "explanation": "\nThe answer is: Archimedes\n\n**Justification**  \nThe correct answer is 'Archimedes' because it best addresses the core concept being tested. Here's why:\n\n1. It accurately reflects the main function, role, or fact related to the topic.\n2. It aligns with verified knowledge and widely accepted information.\n3. It provides a clear and logical interpretation of the question's context.\n\n**Other Options**  \nSome of the other choices, such as 'Euclid', might seem plausible but are ultimately incorrect because:\n\n- They either represent secondary or unrelated functions.\n- They may contain misconceptions or incomplete information.\n- They don't fully align with established facts or technical definitions.\n\n**Conclusion**  \nConsidering the key facts and reasoning above, 'Archimedes' is clearly the most accurate and appropriate choice, making it the correct answer.\n"
+                    },
+                    {
+                        "question": "How many books are in Euclid's Elements of Geometry?",
+                        "options": [
+                            "8",
+                            "17",
+                            "10",
+                            "13"
+                        ],
+                        "answer": "13",
+                        "explanation": "\nThe answer is: 13\n\n**Justification**  \nThe correct answer is '13' because it best addresses the core concept being tested. Here's why:\n\n1. It accurately reflects the main function, role, or fact related to the topic.\n2. It aligns with verified knowledge and widely accepted information.\n3. It provides a clear and logical interpretation of the question's context.\n\n**Other Options**  \nSome of the other choices, such as '8', might seem plausible but are ultimately incorrect because:\n\n- They either represent secondary or unrelated functions.\n- They may contain misconceptions or incomplete information.\n- They don't fully align with established facts or technical definitions.\n\n**Conclusion**  \nConsidering the key facts and reasoning above, '13' is clearly the most accurate and appropriate choice, making it the correct answer.\n"
+                    },
+                    {
+                        "question": "What is the area of a circle with a diameter of 20 inches if \u03c0= 3.1415?",
+                        "options": [
+                            "314.15 Inches",
+                            "3141.5 Inches",
+                            "1256.6 Inches",
+                            "380.1215 Inches"
+                        ],
+                        "answer": "314.15 Inches",
+                        "explanation": "\nThe answer is: 314.15 Inches\n\n**Justification**  \nThe correct answer is '314.15 Inches' because it best addresses the core concept being tested. Here's why:\n\n1. It accurately reflects the main function, role, or fact related to the topic.\n2. It aligns with verified knowledge and widely accepted information.\n3. It provides a clear and logical interpretation of the question's context.\n\n**Other Options**  \nSome of the other choices, such as '380.1215 Inches', might seem plausible but are ultimately incorrect because:\n\n- They either represent secondary or unrelated functions.\n- They may contain misconceptions or incomplete information.\n- They don't fully align with established facts or technical definitions.\n\n**Conclusion**  \nConsidering the key facts and reasoning above, '314.15 Inches' is clearly the most accurate and appropriate choice, making it the correct answer.\n"
+                    },
+                    {
+                        "question": "What is the Roman numeral for 500?",
+                        "options": [
+                            "D",
+                            "C",
+                            "X",
+                            "L"
+                        ],
+                        "answer": "D",
+                        "explanation": "\nThe answer is: D\n\n**Justification**  \nThe correct answer is 'D' because it best addresses the core concept being tested. Here's why:\n\n1. It accurately reflects the main function, role, or fact related to the topic.\n2. It aligns with verified knowledge and widely accepted information.\n3. It provides a clear and logical interpretation of the question's context.\n\n**Other Options**  \nSome of the other choices, such as 'L', might seem plausible but are ultimately incorrect because:\n\n- They either represent secondary or unrelated functions.\n- They may contain misconceptions or incomplete information.\n- They don't fully align with established facts or technical definitions.\n\n**Conclusion**  \nConsidering the key facts and reasoning above, 'D' is clearly the most accurate and appropriate choice, making it the correct answer.\n"
+                    }
+                ]
+            }
+        },
+        "Entertainment: Film": {
+            "medium": {
+                "score": 0,
+                "quiz": [
+                    {
+                        "question": "Which of these Disney classics was released in 1970?",
+                        "options": [
+                            "The Aristocats",
+                            "The Fox and the Hound",
+                            "One Hundred and One Dalmatians",
+                            "The Little Mermaid"
+                        ],
+                        "answer": "The Aristocats",
+                        "explanation": "The answer is: The Aristocats\n\n**Justification**  \nThe correct answer is 'The Aristocats' because it best addresses the core concept being tested. Here's why:\n\n1. It accurately reflects the main function, role, or fact related to the topic.\n2. It aligns with verified knowledge and widely accepted information.\n3. It provides a clear and logical interpretation of the question's context.\n\n**Other Options**  \nSome of the other choices, such as 'One Hundred and One Dalmatians', might seem plausible but are ultimately incorrect because:\n\n- They either represent secondary or unrelated functions.\n- They may contain misconceptions or incomplete information.\n- They don't fully align with established facts or technical definitions.\n\n**Conclusion**  \nConsidering the key facts and reasoning above, 'The Aristocats' is clearly the most accurate and appropriate choice, making it the correct answer.\n"
+                    },
+                    {
+                        "question": "How much money did the 2019 Marvel movie \"Avengers: Endgame\" gross for it's record-breaking worldwide opening weekend?",
+                        "options": [
+                            "640 million USD",
+                            "456 million USD",
+                            "392 million USD",
+                            "1.2 billion USD"
+                        ],
+                        "answer": "1.2 billion USD",
+                        "explanation": "The answer is: 1.2 billion USD\n\n**Justification**  \nThe correct answer is '1.2 billion USD' because it best addresses the core concept being tested. Here's why:\n\n1. It accurately reflects the main function, role, or fact related to the topic.\n2. It aligns with verified knowledge and widely accepted information.\n3. It provides a clear and logical interpretation of the question's context.\n\n**Other Options**  \nSome of the other choices, such as '640 million USD', might seem plausible but are ultimately incorrect because:\n\n- They either represent secondary or unrelated functions.\n- They may contain misconceptions or incomplete information.\n- They don't fully align with established facts or technical definitions.\n\n**Conclusion**  \nConsidering the key facts and reasoning above, '1.2 billion USD' is clearly the most accurate and appropriate choice, making it the correct answer.\n"
+                    },
+                    {
+                        "question": "Who played Baron Victor Frankestein in the 1957 Hammer horror film \"The Curse of Frankenstein\"?",
+                        "options": [
+                            "Peter Cushing",
+                            "Boris Karloff",
+                            "Vincent Price",
+                            "Lon Chaney Jr."
+                        ],
+                        "answer": "Peter Cushing",
+                        "explanation": "The answer is: Peter Cushing\n\n**Justification**  \nThe correct answer is 'Peter Cushing' because it best addresses the core concept being tested. Here's why:\n\n1. It accurately reflects the main function, role, or fact related to the topic.\n2. It aligns with verified knowledge and widely accepted information.\n3. It provides a clear and logical interpretation of the question's context.\n\n**Other Options**  \nSome of the other choices, such as 'Boris Karloff', might seem plausible but are ultimately incorrect because:\n\n- They either represent secondary or unrelated functions.\n- They may contain misconceptions or incomplete information.\n- They don't fully align with established facts or technical definitions.\n\n**Conclusion**  \nConsidering the key facts and reasoning above, 'Peter Cushing' is clearly the most accurate and appropriate choice, making it the correct answer.\n"
+                    },
+                    {
+                        "question": "Which one of these actors is said to be cut from the film 'E.T. the Extra-Terrestrial'?",
+                        "options": [
+                            "Harrison Ford",
+                            "Andy Kaufman",
+                            "Michael J. Fox",
+                            "Arnold Schwarzenegger"
+                        ],
+                        "answer": "Harrison Ford",
+                        "explanation": "The answer is: Harrison Ford\n\n**Justification**  \nThe correct answer is 'Harrison Ford' because it best addresses the core concept being tested. Here's why:\n\n1. It accurately reflects the main function, role, or fact related to the topic.\n2. It aligns with verified knowledge and widely accepted information.\n3. It provides a clear and logical interpretation of the question's context.\n\n**Other Options**  \nSome of the other choices, such as 'Michael J. Fox', might seem plausible but are ultimately incorrect because:\n\n- They either represent secondary or unrelated functions.\n- They may contain misconceptions or incomplete information.\n- They don't fully align with established facts or technical definitions.\n\n**Conclusion**  \nConsidering the key facts and reasoning above, 'Harrison Ford' is clearly the most accurate and appropriate choice, making it the correct answer.\n"
+                    },
+                    {
+                        "question": "Which director directed the movie \"Pan's Labyrinth\"?",
+                        "options": [
+                            "Alejandro Gonz\u00e1lez I\u00f1\u00e1rritu",
+                            " Alejandro Jodorowsky",
+                            "Guillermo Del Toro",
+                            "Alfonso Cuar\u00f3n"
+                        ],
+                        "answer": "Guillermo Del Toro",
+                        "explanation": "The answer is: Guillermo Del Toro\n\n**Justification**  \nThe correct answer is 'Guillermo Del Toro' because it best addresses the core concept being tested. Here's why:\n\n1. It accurately reflects the main function, role, or fact related to the topic.\n2. It aligns with verified knowledge and widely accepted information.\n3. It provides a clear and logical interpretation of the question's context.\n\n**Other Options**  \nSome of the other choices, such as 'Alfonso Cuar\u00f3n', might seem plausible but are ultimately incorrect because:\n\n- They either represent secondary or unrelated functions.\n- They may contain misconceptions or incomplete information.\n- They don't fully align with established facts or technical definitions.\n\n**Conclusion**  \nConsidering the key facts and reasoning above, 'Guillermo Del Toro' is clearly the most accurate and appropriate choice, making it the correct answer.\n"
+                    }
+                ]
+            }
+        },
+        "Mythology": {
+            "hard": {
+                "score": 2,
+                "quiz": [
+                    {
+                        "question": "According to Algonquian folklore, how does one transform into a Wendigo?",
+                        "options": [
+                            "Excessive mutilation of animal corpses.",
+                            "Drinking the blood of many slain animals.",
+                            "Participating in cannibalism.",
+                            "Performing a ritual involving murder."
+                        ],
+                        "answer": "Participating in cannibalism.",
+                        "explanation": "The answer is: Participating in cannibalism.\n\n**Justification**  \nThe correct answer is 'Participating in cannibalism.' because it best addresses the core concept being tested. Here's why:\n\n1. It accurately reflects the main function, role, or fact related to the topic.\n2. It aligns with verified knowledge and widely accepted information.\n3. It provides a clear and logical interpretation of the question's context.\n\n**Other Options**  \nSome of the other choices, such as 'Excessive mutilation of animal corpses.', might seem plausible but are ultimately incorrect because:\n\n- They either represent secondary or unrelated functions.\n- They may contain misconceptions or incomplete information.\n- They don't fully align with established facts or technical definitions.\n\n**Conclusion**  \nConsidering the key facts and reasoning above, 'Participating in cannibalism.' is clearly the most accurate and appropriate choice, making it the correct answer.\n"
+                    },
+                    {
+                        "question": "Who did Hippomenes defeat in a footrace?",
+                        "options": [
+                            "Jason",
+                            "Peleus",
+                            "Theseus",
+                            "Atalanta"
+                        ],
+                        "answer": "Atalanta",
+                        "explanation": "The answer is: Atalanta\n\n**Justification**  \nThe correct answer is 'Atalanta' because it directly relates to how network infrastructure functions in the real world. Here's why:\n\n1. Routers are essential for inter-network communication.\n2. They inspect destination IP addresses to make routing decisions.\n3. They form the backbone of internet and LAN connectivity.\n\n**Other Options**  \nWhile other options like 'Peleus' may describe secondary or unrelated features, they do not fulfill the router's primary function.\n\n**Conclusion**  \nGiven these points, 'Atalanta' is the correct answer based on how modern networking operates.\n"
+                    },
+                    {
+                        "question": "Nidhogg is a mythical creature from what mythology?",
+                        "options": [
+                            "Norse",
+                            "Hindu",
+                            "Greek",
+                            "Egyptian"
+                        ],
+                        "answer": "Norse",
+                        "explanation": "The answer is: Norse\n\n**Justification**  \nThe correct answer is 'Norse' because it best addresses the core concept being tested. Here's why:\n\n1. It accurately reflects the main function, role, or fact related to the topic.\n2. It aligns with verified knowledge and widely accepted information.\n3. It provides a clear and logical interpretation of the question's context.\n\n**Other Options**  \nSome of the other choices, such as 'Egyptian', might seem plausible but are ultimately incorrect because:\n\n- They either represent secondary or unrelated functions.\n- They may contain misconceptions or incomplete information.\n- They don't fully align with established facts or technical definitions.\n\n**Conclusion**  \nConsidering the key facts and reasoning above, 'Norse' is clearly the most accurate and appropriate choice, making it the correct answer.\n"
+                    },
+                    {
+                        "question": "In Norse mythology, what is the name of the serpent which eats the roots of the ash tree Yggdrasil?",
+                        "options": [
+                            "Odin",
+                            "Nidhogg",
+                            "Ymir",
+                            "Bragi"
+                        ],
+                        "answer": "Nidhogg",
+                        "explanation": "The answer is: Nidhogg\n\n**Justification**  \nThe correct answer is 'Nidhogg' because it best addresses the core concept being tested. Here's why:\n\n1. It accurately reflects the main function, role, or fact related to the topic.\n2. It aligns with verified knowledge and widely accepted information.\n3. It provides a clear and logical interpretation of the question's context.\n\n**Other Options**  \nSome of the other choices, such as 'Bragi', might seem plausible but are ultimately incorrect because:\n\n- They either represent secondary or unrelated functions.\n- They may contain misconceptions or incomplete information.\n- They don't fully align with established facts or technical definitions.\n\n**Conclusion**  \nConsidering the key facts and reasoning above, 'Nidhogg' is clearly the most accurate and appropriate choice, making it the correct answer.\n"
+                    },
+                    {
+                        "question": "What was the punishment for Sysiphus's craftiness?",
+                        "options": [
+                            "Standing in a lake filled with water he could not drink.",
+                            "Cursed to roll a boulder up a hill for eternity.",
+                            "To fell a tree that regenerated after every axe swing.",
+                            "Tied to a boulder for eternity, being pecked by birds."
+                        ],
+                        "answer": "Cursed to roll a boulder up a hill for eternity.",
+                        "explanation": "The answer is: Cursed to roll a boulder up a hill for eternity.\n\n**Justification**  \nThe correct answer is 'Cursed to roll a boulder up a hill for eternity.' because it directly relates to how network infrastructure functions in the real world. Here's why:\n\n1. Routers are essential for inter-network communication.\n2. They inspect destination IP addresses to make routing decisions.\n3. They form the backbone of internet and LAN connectivity.\n\n**Other Options**  \nWhile other options like 'Tied to a boulder for eternity, being pecked by birds.' may describe secondary or unrelated features, they do not fulfill the router's primary function.\n\n**Conclusion**  \nGiven these points, 'Cursed to roll a boulder up a hill for eternity.' is the correct answer based on how modern networking operates.\n"
+                    }
+                ]
+            }
+        }
+    },
+    "tarun": {
+        "Entertainment: Film": {
+            "medium": {
+                "score": 2,
+                "quiz": [
+                    {
+                        "question": "Who played Batman in the 1997 film \"Batman and Robin\"?",
+                        "options": [
+                            "Michael Keaton",
+                            "George Clooney",
+                            "Christian Bale",
+                            "Val Kilmer"
+                        ],
+                        "answer": "George Clooney",
+                        "explanation": "The correct answer is 'George Clooney'. One of the incorrect answers is 'Michael Keaton', which is not accurate because it doesn't align with verified facts."
+                    },
+                    {
+                        "question": "In The Lord of the Rings: The Fellowship of the Ring, which one of the following characters from the book was left out of the film?",
+                        "options": [
+                            "Strider",
+                            "Tom Bombadil",
+                            "Barliman Butterbur",
+                            "Celeborn"
+                        ],
+                        "answer": "Tom Bombadil",
+                        "explanation": "The correct answer is 'Tom Bombadil'. One of the incorrect answers is 'Strider', which is not accurate because it doesn't align with verified facts."
+                    },
+                    {
+                        "question": "In the \"Jurassic Park\" universe, what is the name of the island that contains InGen's Site B?",
+                        "options": [
+                            "Isla Pena",
+                            "Isla Nublar",
+                            "Isla Muerta",
+                            "Isla Sorna"
+                        ],
+                        "answer": "Isla Sorna",
+                        "explanation": "The correct answer is 'Isla Sorna'. One of the incorrect answers is 'Isla Nublar', which is not accurate because it doesn't align with verified facts."
+                    },
+                    {
+                        "question": "In which 1955 film does Frank Sinatra play Nathan Detroit?",
+                        "options": [
+                            "Anchors Aweigh",
+                            "Guys and Dolls",
+                            "From Here to Eternity",
+                            "High Society"
+                        ],
+                        "answer": "Guys and Dolls",
+                        "explanation": "The correct answer is 'Guys and Dolls'. One of the incorrect answers is 'Anchors Aweigh', which is not accurate because it doesn't align with verified facts."
+                    },
+                    {
+                        "question": "What is Lilo's last name from Lilo and Stitch?",
+                        "options": [
+                            "Pelekai",
+                            "Kealoha",
+                            "Ku\u02bbulei",
+                            "Anoa\u02bbi"
+                        ],
+                        "answer": "Pelekai",
+                        "explanation": "The correct answer is 'Pelekai'. One of the incorrect answers is 'Anoa\u02bbi', which is not accurate because it doesn't align with verified facts."
+                    }
+                ]
+            }
+        },
+        "Science: Mathematics": {
+            "hard": {
+                "score": 0,
+                "quiz": [
+                    {
+                        "question": "How many zeptometres are inside one femtometre?",
+                        "options": [
+                            "10",
+                            "1,000,000,000",
+                            "1,000,000",
+                            "1000"
+                        ],
+                        "answer": "1,000,000",
+                        "explanation": "The answer is: 1,000,000\n\n**Justification**  \nThe correct answer is '1,000,000' because it best addresses the core concept being tested. Here's why:\n\n1. It accurately reflects the main function, role, or fact related to the topic.\n2. It aligns with verified knowledge and widely accepted information.\n3. It provides a clear and logical interpretation of the question's context.\n\n**Other Options**  \nSome of the other choices, such as '10', might seem plausible but are ultimately incorrect because:\n\n- They either represent secondary or unrelated functions.\n- They may contain misconceptions or incomplete information.\n- They don't fully align with established facts or technical definitions.\n\n**Conclusion**  \nConsidering the key facts and reasoning above, '1,000,000' is clearly the most accurate and appropriate choice, making it the correct answer.\n"
+                    },
+                    {
+                        "question": "What is the smallest number that can be expressed as the sum of two positive cubes in two different ways?",
+                        "options": [
+                            "91",
+                            "1729",
+                            "4104",
+                            "561"
+                        ],
+                        "answer": "1729",
+                        "explanation": "The answer is: 1729\n\n**Justification**  \nThe correct answer is '1729' because it best addresses the core concept being tested. Here's why:\n\n1. It accurately reflects the main function, role, or fact related to the topic.\n2. It aligns with verified knowledge and widely accepted information.\n3. It provides a clear and logical interpretation of the question's context.\n\n**Other Options**  \nSome of the other choices, such as '91', might seem plausible but are ultimately incorrect because:\n\n- They either represent secondary or unrelated functions.\n- They may contain misconceptions or incomplete information.\n- They don't fully align with established facts or technical definitions.\n\n**Conclusion**  \nConsidering the key facts and reasoning above, '1729' is clearly the most accurate and appropriate choice, making it the correct answer.\n"
+                    },
+                    {
+                        "question": "The notion of a \"set that contains all sets which do not contain themselves\" is a paradoxical idea attributed to which English philosopher?",
+                        "options": [
+                            "Alfred North Whitehead",
+                            "John Locke",
+                            "Bertrand Russel",
+                            "Francis Bacon"
+                        ],
+                        "answer": "Bertrand Russel",
+                        "explanation": "The answer is: Bertrand Russel\n\n**Justification**  \nThe correct answer is 'Bertrand Russel' because it best addresses the core concept being tested. Here's why:\n\n1. It accurately reflects the main function, role, or fact related to the topic.\n2. It aligns with verified knowledge and widely accepted information.\n3. It provides a clear and logical interpretation of the question's context.\n\n**Other Options**  \nSome of the other choices, such as 'Francis Bacon', might seem plausible but are ultimately incorrect because:\n\n- They either represent secondary or unrelated functions.\n- They may contain misconceptions or incomplete information.\n- They don't fully align with established facts or technical definitions.\n\n**Conclusion**  \nConsidering the key facts and reasoning above, 'Bertrand Russel' is clearly the most accurate and appropriate choice, making it the correct answer.\n"
+                    },
+                    {
+                        "question": "How many Millibars (mbar) to 1 Inch of Mercury (inHg)",
+                        "options": [
+                            "10.6",
+                            "33.9",
+                            "27.4",
+                            "30.0"
+                        ],
+                        "answer": "33.9",
+                        "explanation": "The answer is: 33.9\n\n**Justification**  \nThe correct answer is '33.9' because it best addresses the core concept being tested. Here's why:\n\n1. It accurately reflects the main function, role, or fact related to the topic.\n2. It aligns with verified knowledge and widely accepted information.\n3. It provides a clear and logical interpretation of the question's context.\n\n**Other Options**  \nSome of the other choices, such as '30.0', might seem plausible but are ultimately incorrect because:\n\n- They either represent secondary or unrelated functions.\n- They may contain misconceptions or incomplete information.\n- They don't fully align with established facts or technical definitions.\n\n**Conclusion**  \nConsidering the key facts and reasoning above, '33.9' is clearly the most accurate and appropriate choice, making it the correct answer.\n"
+                    },
+                    {
+                        "question": "Which of the following famous mathematicians died in a duel at the age of 20?",
+                        "options": [
+                            "Gauss",
+                            "Galois",
+                            "Abel",
+                            "Euler"
+                        ],
+                        "answer": "Galois",
+                        "explanation": "The answer is: Galois\n\n**Justification**  \nThe correct answer is 'Galois' because it best addresses the core concept being tested. Here's why:\n\n1. It accurately reflects the main function, role, or fact related to the topic.\n2. It aligns with verified knowledge and widely accepted information.\n3. It provides a clear and logical interpretation of the question's context.\n\n**Other Options**  \nSome of the other choices, such as 'Abel', might seem plausible but are ultimately incorrect because:\n\n- They either represent secondary or unrelated functions.\n- They may contain misconceptions or incomplete information.\n- They don't fully align with established facts or technical definitions.\n\n**Conclusion**  \nConsidering the key facts and reasoning above, 'Galois' is clearly the most accurate and appropriate choice, making it the correct answer.\n"
+                    }
+                ]
+            }
+        }
+    },
+    "prabhu": {
+        "General Knowledge": {
+            "medium": {
+                "score": 1,
+                "quiz": [
+                    {
+                        "question": "What is the name of the very first video uploaded to YouTube?",
+                        "options": [
+                            "Me at the zoo",
+                            "tribute",
+                            "carrie rides a truck",
+                            "Her new puppy from great grandpa vern."
+                        ],
+                        "answer": "Me at the zoo",
+                        "explanation": "The correct answer is 'Me at the zoo'. One of the incorrect answers is 'tribute', which is not accurate because it doesn't align with verified facts."
+                    },
+                    {
+                        "question": "When was the Declaration of Independence approved by the Second Continental Congress?",
+                        "options": [
+                            "July 2, 1776",
+                            "July 4, 1776",
+                            "May 4, 1776",
+                            "June 4, 1776"
+                        ],
+                        "answer": "July 4, 1776",
+                        "explanation": "The correct answer is 'July 4, 1776'. One of the incorrect answers is 'May 4, 1776', which is not accurate because it doesn't align with verified facts."
+                    },
+                    {
+                        "question": "What is the Swedish word for \"window\"?",
+                        "options": [
+                            "Sk\u00e4rm",
+                            "Ruta",
+                            "F\u00f6nster",
+                            "H\u00e5l"
+                        ],
+                        "answer": "F\u00f6nster",
+                        "explanation": "The correct answer is 'F\u00f6nster'. One of the incorrect answers is 'H\u00e5l', which is not accurate because it doesn't align with verified facts."
+                    },
+                    {
+                        "question": "Which of the following Ivy League universities has its official motto in Hebrew as well as in Latin?",
+                        "options": [
+                            "Princeton University",
+                            "Harvard University",
+                            "Columbia University",
+                            "Yale University"
+                        ],
+                        "answer": "Yale University",
+                        "explanation": "The correct answer is 'Yale University'. One of the incorrect answers is 'Princeton University', which is not accurate because it doesn't align with verified facts."
+                    },
+                    {
+                        "question": "The Mexican Beer \"Corona\" is what type of beer?",
+                        "options": [
+                            "Pilfsner",
+                            "Pale Lager",
+                            "India Pale Ale",
+                            "Baltic Porter"
+                        ],
+                        "answer": "Pale Lager",
+                        "explanation": "The correct answer is 'Pale Lager'. One of the incorrect answers is 'India Pale Ale', which is not accurate because it doesn't align with verified facts."
+                    }
+                ]
+            }
+        },
+        "Mythology": {
+            "medium": {
+                "score": 1,
+                "quiz": [
+                    {
+                        "question": "Hera is god of...",
+                        "options": [
+                            "Sea",
+                            "Agriculture",
+                            "War",
+                            "Marriage"
+                        ],
+                        "answer": "Marriage",
+                        "explanation": "\nThe answer is: Marriage\n\n**Justification**  \nThe correct answer is 'Marriage' because it best addresses the core concept being tested. Here's why:\n\n1. It accurately reflects the main function, role, or fact related to the topic.\n2. It aligns with verified knowledge and widely accepted information.\n3. It provides a clear and logical interpretation of the question's context.\n\n**Other Options**  \nSome of the other choices, such as 'Agriculture', might seem plausible but are ultimately incorrect because:\n\n- They either represent secondary or unrelated functions.\n- They may contain misconceptions or incomplete information.\n- They don't fully align with established facts or technical definitions.\n\n**Conclusion**  \nConsidering the key facts and reasoning above, 'Marriage' is clearly the most accurate and appropriate choice, making it the correct answer.\n"
+                    },
+                    {
+                        "question": "Who is the god of war in Polynesian mythology?",
+                        "options": [
+                            "Kohara",
+                            "Hina",
+                            "'Oro",
+                            "M\u0101ui"
+                        ],
+                        "answer": "'Oro",
+                        "explanation": "\nThe answer is: 'Oro\n\n**Justification**  \nThe correct answer is ''Oro' because it best addresses the core concept being tested. Here's why:\n\n1. It accurately reflects the main function, role, or fact related to the topic.\n2. It aligns with verified knowledge and widely accepted information.\n3. It provides a clear and logical interpretation of the question's context.\n\n**Other Options**  \nSome of the other choices, such as 'Hina', might seem plausible but are ultimately incorrect because:\n\n- They either represent secondary or unrelated functions.\n- They may contain misconceptions or incomplete information.\n- They don't fully align with established facts or technical definitions.\n\n**Conclusion**  \nConsidering the key facts and reasoning above, ''Oro' is clearly the most accurate and appropriate choice, making it the correct answer.\n"
+                    },
+                    {
+                        "question": "In Norse Mythology, Baldr was killed by Loki with a magical spear made from what plant?",
+                        "options": [
+                            "Buckthorn",
+                            "Mistletoe",
+                            "Hemlock",
+                            "Wolf's Bane"
+                        ],
+                        "answer": "Mistletoe",
+                        "explanation": "\nThe answer is: Mistletoe\n\n**Justification**  \nThe correct answer is 'Mistletoe' because it best addresses the core concept being tested. Here's why:\n\n1. It accurately reflects the main function, role, or fact related to the topic.\n2. It aligns with verified knowledge and widely accepted information.\n3. It provides a clear and logical interpretation of the question's context.\n\n**Other Options**  \nSome of the other choices, such as 'Wolf's Bane', might seem plausible but are ultimately incorrect because:\n\n- They either represent secondary or unrelated functions.\n- They may contain misconceptions or incomplete information.\n- They don't fully align with established facts or technical definitions.\n\n**Conclusion**  \nConsidering the key facts and reasoning above, 'Mistletoe' is clearly the most accurate and appropriate choice, making it the correct answer.\n"
+                    },
+                    {
+                        "question": "According to Japanese folklore, what is the favorite food of the Kappa.",
+                        "options": [
+                            "Nasu",
+                            "Kabocha",
+                            "Cucumbers",
+                            "Soba"
+                        ],
+                        "answer": "Cucumbers",
+                        "explanation": "\nThe answer is: Cucumbers\n\n**Justification**  \nThe correct answer is 'Cucumbers' because it best addresses the core concept being tested. Here's why:\n\n1. It accurately reflects the main function, role, or fact related to the topic.\n2. It aligns with verified knowledge and widely accepted information.\n3. It provides a clear and logical interpretation of the question's context.\n\n**Other Options**  \nSome of the other choices, such as 'Kabocha', might seem plausible but are ultimately incorrect because:\n\n- They either represent secondary or unrelated functions.\n- They may contain misconceptions or incomplete information.\n- They don't fully align with established facts or technical definitions.\n\n**Conclusion**  \nConsidering the key facts and reasoning above, 'Cucumbers' is clearly the most accurate and appropriate choice, making it the correct answer.\n"
+                    },
+                    {
+                        "question": "What is the name of the Greek god of peaceful deaths?",
+                        "options": [
+                            "Thanatos",
+                            "Hades",
+                            "Tartarus",
+                            "Moros"
+                        ],
+                        "answer": "Thanatos",
+                        "explanation": "\nThe answer is: Thanatos\n\n**Justification**  \nThe correct answer is 'Thanatos' because it best addresses the core concept being tested. Here's why:\n\n1. It accurately reflects the main function, role, or fact related to the topic.\n2. It aligns with verified knowledge and widely accepted information.\n3. It provides a clear and logical interpretation of the question's context.\n\n**Other Options**  \nSome of the other choices, such as 'Tartarus', might seem plausible but are ultimately incorrect because:\n\n- They either represent secondary or unrelated functions.\n- They may contain misconceptions or incomplete information.\n- They don't fully align with established facts or technical definitions.\n\n**Conclusion**  \nConsidering the key facts and reasoning above, 'Thanatos' is clearly the most accurate and appropriate choice, making it the correct answer.\n"
+                    }
+                ]
+            }
+        },
+        "Entertainment: Musicals & Theatres": {
+            "medium": {
+                "score": 1,
+                "quiz": [
+                    {
+                        "question": "What was George Bizet's last opera?",
+                        "options": [
+                            "Gris\u00e9lidis",
+                            "Les p\u00eacheurs de perles",
+                            "Don Rodrigue",
+                            "Carmen"
+                        ],
+                        "answer": "Carmen",
+                        "explanation": "The answer is: Carmen\n\n**Justification**  \nThe correct answer is 'Carmen' because it best addresses the core concept being tested. Here's why:\n\n1. It accurately reflects the main function, role, or fact related to the topic.\n2. It aligns with verified knowledge and widely accepted information.\n3. It provides a clear and logical interpretation of the question's context.\n\n**Other Options**  \nSome of the other choices, such as 'Don Rodrigue', might seem plausible but are ultimately incorrect because:\n\n- They either represent secondary or unrelated functions.\n- They may contain misconceptions or incomplete information.\n- They don't fully align with established facts or technical definitions.\n\n**Conclusion**  \nConsidering the key facts and reasoning above, 'Carmen' is clearly the most accurate and appropriate choice, making it the correct answer.\n"
+                    },
+                    {
+                        "question": "The World Chess Championship in Chess, Act 1 is set in which Italian city?",
+                        "options": [
+                            "Venice",
+                            "Rome",
+                            "Milan",
+                            "Merano"
+                        ],
+                        "answer": "Merano",
+                        "explanation": "The answer is: Merano\n\n**Justification**  \nThe correct answer is 'Merano' because it directly relates to how network infrastructure functions in the real world. Here's why:\n\n1. Routers are essential for inter-network communication.\n2. They inspect destination IP addresses to make routing decisions.\n3. They form the backbone of internet and LAN connectivity.\n\n**Other Options**  \nWhile other options like 'Venice' may describe secondary or unrelated features, they do not fulfill the router's primary function.\n\n**Conclusion**  \nGiven these points, 'Merano' is the correct answer based on how modern networking operates.\n"
+                    },
+                    {
+                        "question": "Which musical has won the most Tony awards?",
+                        "options": [
+                            "Hamilton",
+                            "Phantom of the Opera",
+                            "The Producers",
+                            "Chicago"
+                        ],
+                        "answer": "The Producers",
+                        "explanation": "The answer is: The Producers\n\n**Justification**  \nThe correct answer is 'The Producers' because it best addresses the core concept being tested. Here's why:\n\n1. It accurately reflects the main function, role, or fact related to the topic.\n2. It aligns with verified knowledge and widely accepted information.\n3. It provides a clear and logical interpretation of the question's context.\n\n**Other Options**  \nSome of the other choices, such as 'Hamilton', might seem plausible but are ultimately incorrect because:\n\n- They either represent secondary or unrelated functions.\n- They may contain misconceptions or incomplete information.\n- They don't fully align with established facts or technical definitions.\n\n**Conclusion**  \nConsidering the key facts and reasoning above, 'The Producers' is clearly the most accurate and appropriate choice, making it the correct answer.\n"
+                    },
+                    {
+                        "question": "The musical \"Dirty Rotten Scoundrels\" is set in what country?",
+                        "options": [
+                            "Sweden",
+                            "Germany",
+                            "USA",
+                            "France"
+                        ],
+                        "answer": "France",
+                        "explanation": "The answer is: France\n\n**Justification**  \nThe correct answer is 'France' because it best addresses the core concept being tested. Here's why:\n\n1. It accurately reflects the main function, role, or fact related to the topic.\n2. It aligns with verified knowledge and widely accepted information.\n3. It provides a clear and logical interpretation of the question's context.\n\n**Other Options**  \nSome of the other choices, such as 'USA', might seem plausible but are ultimately incorrect because:\n\n- They either represent secondary or unrelated functions.\n- They may contain misconceptions or incomplete information.\n- They don't fully align with established facts or technical definitions.\n\n**Conclusion**  \nConsidering the key facts and reasoning above, 'France' is clearly the most accurate and appropriate choice, making it the correct answer.\n"
+                    },
+                    {
+                        "question": "Which of the following is not a piece from the 1950's musical West Side Story?",
+                        "options": [
+                            "The Back Alley",
+                            "Mambo",
+                            "Maria",
+                            "Tonight"
+                        ],
+                        "answer": "The Back Alley",
+                        "explanation": "The answer is: The Back Alley\n\n**Justification**  \nThe correct answer is 'The Back Alley' because it best addresses the core concept being tested. Here's why:\n\n1. It accurately reflects the main function, role, or fact related to the topic.\n2. It aligns with verified knowledge and widely accepted information.\n3. It provides a clear and logical interpretation of the question's context.\n\n**Other Options**  \nSome of the other choices, such as 'Maria', might seem plausible but are ultimately incorrect because:\n\n- They either represent secondary or unrelated functions.\n- They may contain misconceptions or incomplete information.\n- They don't fully align with established facts or technical definitions.\n\n**Conclusion**  \nConsidering the key facts and reasoning above, 'The Back Alley' is clearly the most accurate and appropriate choice, making it the correct answer.\n"
+                    }
+                ]
+            }
+        }
+    },
+    "Ankit": {
+        "Celebrities": {
+            "medium": {
+                "score": 0,
+                "quiz": [
+                    {
+                        "question": "What is generally considered to be William Shakespeare's birth date?",
+                        "options": [
+                            "July 4th, 1409",
+                            "December 1st, 1750",
+                            "April 23rd, 1564",
+                            "September 29th, 1699"
+                        ],
+                        "answer": "April 23rd, 1564",
+                        "explanation": "The answer is: April 23rd, 1564\n\n**Justification**  \nThe correct answer is 'April 23rd, 1564' because it best addresses the core concept being tested. Here's why:\n\n1. It accurately reflects the main function, role, or fact related to the topic.\n2. It aligns with verified knowledge and widely accepted information.\n3. It provides a clear and logical interpretation of the question's context.\n\n**Other Options**  \nSome of the other choices, such as 'July 4th, 1409', might seem plausible but are ultimately incorrect because:\n\n- They either represent secondary or unrelated functions.\n- They may contain misconceptions or incomplete information.\n- They don't fully align with established facts or technical definitions.\n\n**Conclusion**  \nConsidering the key facts and reasoning above, 'April 23rd, 1564' is clearly the most accurate and appropriate choice, making it the correct answer.\n"
+                    },
+                    {
+                        "question": "If he was still alive, in what year would Elvis Presley celebrate his 100th birthday?",
+                        "options": [
+                            "2040",
+                            "2030",
+                            "2045",
+                            "2035"
+                        ],
+                        "answer": "2035",
+                        "explanation": "The answer is: 2035\n\n**Justification**  \nThe correct answer is '2035' because it best addresses the core concept being tested. Here's why:\n\n1. It accurately reflects the main function, role, or fact related to the topic.\n2. It aligns with verified knowledge and widely accepted information.\n3. It provides a clear and logical interpretation of the question's context.\n\n**Other Options**  \nSome of the other choices, such as '2030', might seem plausible but are ultimately incorrect because:\n\n- They either represent secondary or unrelated functions.\n- They may contain misconceptions or incomplete information.\n- They don't fully align with established facts or technical definitions.\n\n**Conclusion**  \nConsidering the key facts and reasoning above, '2035' is clearly the most accurate and appropriate choice, making it the correct answer.\n"
+                    },
+                    {
+                        "question": "Which of these celebrities was not a member of the Jackson 5?",
+                        "options": [
+                            "Tito Jackson",
+                            "Marlon Jackson",
+                            "Jermaine Jackson",
+                            "Bo Jackson"
+                        ],
+                        "answer": "Bo Jackson",
+                        "explanation": "The answer is: Bo Jackson\n\n**Justification**  \nThe correct answer is 'Bo Jackson' because it best addresses the core concept being tested. Here's why:\n\n1. It accurately reflects the main function, role, or fact related to the topic.\n2. It aligns with verified knowledge and widely accepted information.\n3. It provides a clear and logical interpretation of the question's context.\n\n**Other Options**  \nSome of the other choices, such as 'Tito Jackson', might seem plausible but are ultimately incorrect because:\n\n- They either represent secondary or unrelated functions.\n- They may contain misconceptions or incomplete information.\n- They don't fully align with established facts or technical definitions.\n\n**Conclusion**  \nConsidering the key facts and reasoning above, 'Bo Jackson' is clearly the most accurate and appropriate choice, making it the correct answer.\n"
+                    },
+                    {
+                        "question": "What was the cause of death for Freddie Mercury?",
+                        "options": [
+                            "Brain Hemorrhage",
+                            "HIV",
+                            "Stomach Cancer",
+                            "Pneumonia"
+                        ],
+                        "answer": "Pneumonia",
+                        "explanation": "The answer is: Pneumonia\n\n**Justification**  \nThe correct answer is 'Pneumonia' because it best addresses the core concept being tested. Here's why:\n\n1. It accurately reflects the main function, role, or fact related to the topic.\n2. It aligns with verified knowledge and widely accepted information.\n3. It provides a clear and logical interpretation of the question's context.\n\n**Other Options**  \nSome of the other choices, such as 'Stomach Cancer', might seem plausible but are ultimately incorrect because:\n\n- They either represent secondary or unrelated functions.\n- They may contain misconceptions or incomplete information.\n- They don't fully align with established facts or technical definitions.\n\n**Conclusion**  \nConsidering the key facts and reasoning above, 'Pneumonia' is clearly the most accurate and appropriate choice, making it the correct answer.\n"
+                    },
+                    {
+                        "question": "Which of these people is NOT a part of the Internet comedy group Mega64?",
+                        "options": [
+                            "Derrick Acosta",
+                            "Rocco Botte",
+                            "Shawn Chatfield",
+                            "Jon Jafari"
+                        ],
+                        "answer": "Jon Jafari",
+                        "explanation": "The answer is: Jon Jafari\n\n**Justification**  \nThe correct answer is 'Jon Jafari' because it best addresses the core concept being tested. Here's why:\n\n1. It accurately reflects the main function, role, or fact related to the topic.\n2. It aligns with verified knowledge and widely accepted information.\n3. It provides a clear and logical interpretation of the question's context.\n\n**Other Options**  \nSome of the other choices, such as 'Rocco Botte', might seem plausible but are ultimately incorrect because:\n\n- They either represent secondary or unrelated functions.\n- They may contain misconceptions or incomplete information.\n- They don't fully align with established facts or technical definitions.\n\n**Conclusion**  \nConsidering the key facts and reasoning above, 'Jon Jafari' is clearly the most accurate and appropriate choice, making it the correct answer.\n"
+                    }
+                ]
+            }
+        },
+        "Science: Computers": {
+            "medium": {
+                "score": 1,
+                "quiz": [
+                    {
+                        "question": "When did the online streaming service \"Mixer\" launch?",
+                        "options": [
+                            "2009",
+                            "2011",
+                            "2013",
+                            "2016"
+                        ],
+                        "answer": "2016",
+                        "explanation": "The answer is: 2016\n\n**Justification**  \nThe correct answer is '2016' because it best addresses the core concept being tested. Here's why:\n\n1. It accurately reflects the main function, role, or fact related to the topic.\n2. It aligns with verified knowledge and widely accepted information.\n3. It provides a clear and logical interpretation of the question's context.\n\n**Other Options**  \nSome of the other choices, such as '2013', might seem plausible but are ultimately incorrect because:\n\n- They either represent secondary or unrelated functions.\n- They may contain misconceptions or incomplete information.\n- They don't fully align with established facts or technical definitions.\n\n**Conclusion**  \nConsidering the key facts and reasoning above, '2016' is clearly the most accurate and appropriate choice, making it the correct answer.\n"
+                    },
+                    {
+                        "question": "What was the first commerically available computer processor?",
+                        "options": [
+                            "Intel 4004",
+                            "TMS 1000",
+                            "AMD AM386",
+                            "Intel 486SX"
+                        ],
+                        "answer": "Intel 4004",
+                        "explanation": "The answer is: Intel 4004\n\n**Justification**  \nThe correct answer is 'Intel 4004' because it best addresses the core concept being tested. Here's why:\n\n1. It accurately reflects the main function, role, or fact related to the topic.\n2. It aligns with verified knowledge and widely accepted information.\n3. It provides a clear and logical interpretation of the question's context.\n\n**Other Options**  \nSome of the other choices, such as 'Intel 486SX', might seem plausible but are ultimately incorrect because:\n\n- They either represent secondary or unrelated functions.\n- They may contain misconceptions or incomplete information.\n- They don't fully align with established facts or technical definitions.\n\n**Conclusion**  \nConsidering the key facts and reasoning above, 'Intel 4004' is clearly the most accurate and appropriate choice, making it the correct answer.\n"
+                    },
+                    {
+                        "question": "Which internet company began life as an online bookstore called 'Cadabra'?",
+                        "options": [
+                            "Overstock",
+                            "eBay",
+                            "Shopify",
+                            "Amazon"
+                        ],
+                        "answer": "Amazon",
+                        "explanation": "The answer is: Amazon\n\n**Justification**  \nThe correct answer is 'Amazon' because it best addresses the core concept being tested. Here's why:\n\n1. It accurately reflects the main function, role, or fact related to the topic.\n2. It aligns with verified knowledge and widely accepted information.\n3. It provides a clear and logical interpretation of the question's context.\n\n**Other Options**  \nSome of the other choices, such as 'eBay', might seem plausible but are ultimately incorrect because:\n\n- They either represent secondary or unrelated functions.\n- They may contain misconceptions or incomplete information.\n- They don't fully align with established facts or technical definitions.\n\n**Conclusion**  \nConsidering the key facts and reasoning above, 'Amazon' is clearly the most accurate and appropriate choice, making it the correct answer.\n"
+                    },
+                    {
+                        "question": "What is the main CPU is the Sega Mega Drive / Sega Genesis?",
+                        "options": [
+                            "Zilog Z80",
+                            "Intel 8088",
+                            "Yamaha YM2612",
+                            "Motorola 68000"
+                        ],
+                        "answer": "Motorola 68000",
+                        "explanation": "The answer is: Motorola 68000\n\n**Justification**  \nThe correct answer is 'Motorola 68000' because it best addresses the core concept being tested. Here's why:\n\n1. It accurately reflects the main function, role, or fact related to the topic.\n2. It aligns with verified knowledge and widely accepted information.\n3. It provides a clear and logical interpretation of the question's context.\n\n**Other Options**  \nSome of the other choices, such as 'Zilog Z80', might seem plausible but are ultimately incorrect because:\n\n- They either represent secondary or unrelated functions.\n- They may contain misconceptions or incomplete information.\n- They don't fully align with established facts or technical definitions.\n\n**Conclusion**  \nConsidering the key facts and reasoning above, 'Motorola 68000' is clearly the most accurate and appropriate choice, making it the correct answer.\n"
+                    },
+                    {
+                        "question": "What does the term MIME stand for, in regards to computing?",
+                        "options": [
+                            "Multipurpose Interleave Mail Exchange",
+                            "Multipurpose Internet Mail Extensions",
+                            "Mail Interleave Method Exchange",
+                            "Mail Internet Mail Exchange"
+                        ],
+                        "answer": "Multipurpose Internet Mail Extensions",
+                        "explanation": "The answer is: Multipurpose Internet Mail Extensions\n\n**Justification**  \nThe correct answer is 'Multipurpose Internet Mail Extensions' because it best addresses the core concept being tested. Here's why:\n\n1. It accurately reflects the main function, role, or fact related to the topic.\n2. It aligns with verified knowledge and widely accepted information.\n3. It provides a clear and logical interpretation of the question's context.\n\n**Other Options**  \nSome of the other choices, such as 'Mail Internet Mail Exchange', might seem plausible but are ultimately incorrect because:\n\n- They either represent secondary or unrelated functions.\n- They may contain misconceptions or incomplete information.\n- They don't fully align with established facts or technical definitions.\n\n**Conclusion**  \nConsidering the key facts and reasoning above, 'Multipurpose Internet Mail Extensions' is clearly the most accurate and appropriate choice, making it the correct answer.\n"
+                    }
+                ]
+            }
+        }
+    }
+}
