@@ -1,7 +1,7 @@
-requests
+requests>=2.31.0
 html
 random
-streamlit
+streamlit>=1.24.0
 datetime
 random
 os
